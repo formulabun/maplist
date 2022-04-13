@@ -1,3 +1,8 @@
+# map files
+mapfiles/*.pk3
+mapfiles/*.wad
+
+
 # Logs
 logs
 *.log

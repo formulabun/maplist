@@ -1,0 +1,15 @@
+{
+  "name": "maplist",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "extract": "node extract.js",
+    "generate": "node generage.js"
+  },
+  "author": "Fl_GUI",
+  "license": "ISC",
+  "dependencies": {
+    "srb2kartjs": "^2.2.6"
+  }
+}
