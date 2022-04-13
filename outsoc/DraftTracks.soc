@@ -1,0 +1,13 @@
+LEVEL lq
+mappack = KR_DraftTracks_v1.1.pk3
+levelname = House of the Undying
+subtitle = Spooky house Oooo
+typeoflevel = race
+numlaps = 2
+skynum = 117
+weather = PRECIP_STORM_NORAIN
+music = KMAPLQ
+recordattack = true
+nozone = true
+nextlevel = 1
+

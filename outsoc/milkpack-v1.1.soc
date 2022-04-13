@@ -1,0 +1,36 @@
+LEVEL f5
+mappack = KR_milkpack-v1.1.pk3
+levelname = GBA Mario Circuit
+nozone = True
+subtitle = Milk Carton Cup
+typeoflevel = race
+skynum = 357
+skyboxscalez = 64
+numlaps = 3
+mobjscale = FRACUNIT/2
+recordattack = true
+music = MAPF5
+
+LEVEL f6
+mappack = KR_milkpack-v1.1.pk3
+levelname = Marble Drome
+subtitle = Milk Carton Cup
+typeoflevel = race
+skynum = 967
+numlaps = 3
+recordattack = true
+skyboxscalez = 64
+music = MAPF6
+
+LEVEL f7
+mappack = KR_milkpack-v1.1.pk3
+levelname = Milk Capital
+subtitle = Milk Carton Cup
+typeoflevel = race
+skynum = 7492
+skyboxscalez = 64
+music = MAPF7
+recordattack = true
+numlaps = 3
+weather = PRECIP_SNOW
+

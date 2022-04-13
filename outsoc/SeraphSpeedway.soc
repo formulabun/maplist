@@ -1,0 +1,14 @@
+LEVEL uf
+mappack = KR_SeraphSpeedway_v1-0.pk3
+levelname = SERAPH Speedway
+subtitle = Aquatic Racing Paradise
+nozone = TRUE
+music = SRPHS
+levelselect = 1
+typeoflevel = race
+recordattack = True
+numlaps = 3
+skynum = 2106
+nextlevel = 1
+skyboxscale = 8
+

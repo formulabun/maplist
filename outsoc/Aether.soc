@@ -1,0 +1,48 @@
+LEVEL y1
+mappack = KRL_Aether_Pack_v2.pk3
+levelname = Crystal Caverns
+nozone = True
+subtitle = Wonder Cup 1
+music = KMAPY1
+typeoflevel = race
+recordattack = True
+numlaps = 3
+skynum = 1
+skyboxscale = 128
+weather = PRECIP_SNOW
+
+LEVEL y2
+mappack = KRL_Aether_Pack_v2.pk3
+levelname = VR_CORRUPTION
+subtitle = Wonder Cup 2
+nozone = True
+typeoflevel = race
+recordattack = True
+numlaps = 2
+skynum = 4900
+music = KMAPY2
+mobjscale = 19*FRACUNIT/20
+
+LEVEL y3
+mappack = KRL_Aether_Pack_v2.pk3
+levelname = Hilltop Haunt
+nozone = True
+subtitle = Wonder Cup 3
+music = KMAPY3
+typeoflevel = race
+recordattack = True
+numlaps = 4
+skynum = 118
+weather = 3
+
+LEVEL y5
+mappack = KRL_Aether_Pack_v2.pk3
+levelname = Metal Harbor
+nozone = True
+subtitle = Mirage Cup 1
+music = KMAPY5
+typeoflevel = race
+recordattack = True
+numlaps = 3
+skynum = 9998
+

@@ -1,0 +1,14 @@
+LEVEL d9
+mappack = KR_DesertBus_v1.3.pk3
+levelname = Desert Bus
+subtitle = :)
+levelselect = 1
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 50
+skynum = 9951
+music = MAPD9M
+skyboxscalez = 0
+hidden = true
+

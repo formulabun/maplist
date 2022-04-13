@@ -1,7 +1,7 @@
 # map files
 mapfiles/*.pk3
 mapfiles/*.wad
-
+mapfiles/*.kart
 
 # Logs
 logs

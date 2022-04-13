@@ -1,0 +1,13 @@
+LEVEL sa
+mappack = KR_MaydaySubmarine_v1.03.pk3
+levelname = Mayday Submarine
+subtitle = By Crayola and XBC30EP450
+nozone = true
+levelselect = 4
+music = KMAPSA
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 3
+skynum = 1
+

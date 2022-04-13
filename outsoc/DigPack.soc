@@ -1,0 +1,157 @@
+LEVEL da
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Plains of Passage
+nozone = True
+subtitle = Shovel Cup 1
+typeoflevel = race
+recordattack = True
+numlaps = 3
+skynum = 590
+palette = 4083
+music = MAPDAM
+lua.frictionfix = true
+
+LEVEL db
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Pridemoor Keep
+nozone = True
+subtitle = Shovel Cup 2
+typeoflevel = race
+recordattack = True
+numlaps = 2
+skynum = 588
+music = MAPDBM
+nextlevel = 1
+
+LEVEL dc
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Lich Yard
+nozone = True
+subtitle = Shovel Cup 3
+typeoflevel = race
+recordattack = True
+numlaps = 3
+skynum = 589
+music = MAPDCM
+weather = PRECIP_STORM_NOSTRIKES
+nextlevel = 1
+
+LEVEL de
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Lost City
+subtitle = Shovel Cup 5
+nozone = True
+typeoflevel = race
+recordattack = true
+numlaps = 3
+skynum = 5492
+music = MAPDEM
+mobjscale = FRACUNIT*500/1000
+palette = 4055
+novisitneeded = true
+sectionrace = true
+nextlevel = 1
+
+LEVEL lx
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Flying Machine
+nozone = True
+subtitle = Shield Cup 3
+typeoflevel = race
+recordattack = True
+numlaps = 2
+skynum = 1361
+palette = 9908
+music = MAPLXM
+
+LEVEL ly
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Stranded Ship
+nozone = True
+subtitle = Shield Cup 4
+typeoflevel = race
+recordattack = True
+numlaps = 2
+skynum = 2875
+music = MAPLYM
+
+LEVEL dz
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Burning Bone
+subtitle = Diggle Cup 5
+typeoflevel = race
+recordattack = True
+numlaps = 5
+skynum = 28
+music = MAPDZM
+nextlevel = 1
+
+LEVEL nm
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Wandering Falls
+subtitle = Diggle Cup 1
+nozone = True
+typeoflevel = race
+recordattack = true
+numlaps = 3
+skynum = 3117
+music = MAPNM1
+novisitneeded = true
+nextlevel = 1
+
+LEVEL oy
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Lava Reef
+subtitle = Spindash Cup 4
+typeoflevel = race
+recordattack = true
+numlaps = 3
+music = MAPOYM
+skynum = 4991
+palette = 2997
+novisitneeded = true
+nextlevel = 1
+
+LEVEL sm
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Nuclear Sewers
+nozone = True
+palette = 4480
+subtitle = Dig Pack Battle
+typeoflevel = battle
+recordattack = False
+nextlevel = 1
+skynum = 7
+music = MAPSMM
+
+LEVEL fk
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Temple Tussle
+subtitle = Dig Pack Battle
+typeoflevel = battle
+recordattack = False
+nextlevel = 1
+skynum = 2735
+music = MAPFKM
+
+LEVEL cr
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = The Skeld
+subtitle = amogus
+nozone = True
+typeoflevel = battle
+skynum = 595
+music = MAPCRM
+recordattack = False
+nextlevel = 1
+
+LEVEL xg
+mappack = KRBL_DigPack_v8.0.pk3
+levelname = Barrier Lab
+subtitle = Dig Pack Battle
+typeoflevel = battle
+recordattack = False
+nextlevel = 1
+skynum = 2195
+music = MAPXGM
+

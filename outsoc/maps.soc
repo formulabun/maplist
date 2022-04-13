@@ -1,0 +1,1205 @@
+LEVEL 10
+mappack = maps.kart
+levelname = Grand Metropolis
+nozone = true
+subtitle = Sneaker Cup FINAL
+typeoflevel = race
+numlaps = 2
+skynum = 70
+music = KMAP10
+recordattack = true
+novisitneeded = true
+nextlevel = EVALUATION
+
+LEVEL 11
+mappack = maps.kart
+levelname = Sunbeam Paradise
+subtitle = Water Cup 1
+typeoflevel = race
+numlaps = 3
+skynum = 2
+music = KMAP11
+recordattack = true
+novisitneeded = true
+
+LEVEL 12
+mappack = maps.kart
+levelname = Diamond Square
+subtitle = Water Cup 2
+typeoflevel = race
+numlaps = 3
+skynum = 8
+weather = PRECIP_RAIN
+music = KMAP12
+recordattack = true
+novisitneeded = true
+nextlevel = EVALUATION
+
+LEVEL 13
+mappack = maps.kart
+levelname = Midnight Meadow
+subtitle = Water Cup 3
+typeoflevel = race
+numlaps = 3
+skynum = 117
+music = KMAP13
+recordattack = true
+novisitneeded = true
+
+LEVEL 14
+mappack = maps.kart
+levelname = Twinkle Cart
+nozone = true
+subtitle = Water Cup 4
+typeoflevel = race
+numlaps = 3
+skynum = 1017
+music = KMAP14
+recordattack = true
+novisitneeded = true
+sectionrace = true
+
+LEVEL 15
+mappack = maps.kart
+levelname = Pleasure Castle
+nozone = true
+subtitle = Water Cup FINAL
+typeoflevel = race
+numlaps = 3
+skynum = 1017
+music = KMAP15
+recordattack = true
+novisitneeded = true
+nextlevel = EVALUATION
+
+LEVEL 16
+mappack = maps.kart
+levelname = Paradise Hill
+subtitle = Lightning Cup 1
+typeoflevel = race
+numlaps = 2
+skynum = 190
+music = KMAP16
+recordattack = true
+novisitneeded = true
+
+LEVEL 17
+mappack = maps.kart
+levelname = Sub-Zero Peak
+subtitle = Lightning Cup 2
+typeoflevel = race
+numlaps = 3
+skynum = 55
+weather = PRECIP_SNOW
+music = KMAP17
+recordattack = true
+novisitneeded = true
+
+LEVEL 18
+mappack = maps.kart
+levelname = Sapphire Coast
+subtitle = Lightning Cup 3
+typeoflevel = race
+numlaps = 3
+skynum = 190
+skyboxscale = 128
+music = KMAP18
+recordattack = true
+novisitneeded = true
+
+LEVEL 19
+mappack = maps.kart
+levelname = Sand Valley
+subtitle = Lightning Cup 4
+skynum = 6
+music = KMAP19
+weather = 0
+typeoflevel = race
+numlaps = 3
+recordattack = True
+novisitneeded = True
+
+LEVEL 20
+mappack = maps.kart
+levelname = Megablock Castle
+subtitle = Lightning Cup FINAL
+typeoflevel = race
+numlaps = 2
+skynum = 76
+music = KMAP20
+recordattack = true
+novisitneeded = true
+nextlevel = EVALUATION
+
+LEVEL 21
+mappack = maps.kart
+levelname = Canyon Rush
+subtitle = Fire Cup 1
+typeoflevel = race
+numlaps = 4
+skynum = 13
+music = KMAP21
+recordattack = true
+novisitneeded = true
+sectionrace = true
+
+LEVEL 22
+mappack = maps.kart
+levelname = Casino Resort
+subtitle = Fire Cup 2
+typeoflevel = race
+numlaps = 2
+skynum = 8
+music = KMAP22
+recordattack = true
+novisitneeded = true
+
+LEVEL 23
+mappack = maps.kart
+levelname = Silvercloud Island
+subtitle = Fire Cup 3
+typeoflevel = race
+numlaps = 3
+skynum = 31
+music = KMAP23
+recordattack = true
+novisitneeded = true
+
+LEVEL 24
+mappack = maps.kart
+levelname = Blue Mountain
+subtitle = Fire Cup 4
+typeoflevel = race
+numlaps = 3
+skynum = 17
+skyboxscale = 0
+weather = PRECIP_SNOW
+music = KMAP24
+recordattack = true
+novisitneeded = true
+
+LEVEL 25
+mappack = maps.kart
+levelname = Petroleum Refinery
+subtitle = Fire Cup FINAL
+typeoflevel = race
+numlaps = 2
+skynum = 75
+skyboxscale = 128
+music = KMAP25
+recordattack = true
+novisitneeded = true
+nextlevel = EVALUATION
+
+LEVEL 26
+mappack = maps.kart
+levelname = Desert Palace
+subtitle = Invincible Cup 1
+typeoflevel = race
+numlaps = 5
+skynum = 3753
+music = KMAP26
+recordattack = true
+novisitneeded = true
+
+LEVEL 27
+mappack = maps.kart
+levelname = Aurora Atoll
+subtitle = Invincible Cup 2
+typeoflevel = race
+numlaps = 3
+palette = 71
+skynum = 71
+skyboxscalez = 128
+music = KMAP27
+recordattack = true
+novisitneeded = true
+
+LEVEL 28
+mappack = maps.kart
+levelname = Barren Badlands
+subtitle = Invincible Cup 3
+typeoflevel = race
+numlaps = 3
+palette = 77
+skynum = 77
+skyboxscalez = 0
+music = KMAP28
+recordattack = true
+novisitneeded = true
+
+LEVEL 29
+mappack = maps.kart
+levelname = Red Barrage
+zonetitle = Area
+subtitle = Invincible Cup 4
+typeoflevel = race
+numlaps = 3
+skynum = 821
+music = KMAP29
+recordattack = true
+novisitneeded = true
+
+LEVEL 30
+mappack = maps.kart
+levelname = Midnight Channel
+nozone = true
+subtitle = Invincible Cup FINAL
+typeoflevel = race
+numlaps = 2
+music = KMAP30
+lua.tv = true
+recordattack = true
+novisitneeded = true
+nextlevel = EVALUATION
+
+LEVEL 31
+mappack = maps.kart
+levelname = Vanilla Hotel
+subtitle = Emerald Cup 1
+typeoflevel = race
+numlaps = 3
+skynum = 88
+music = KMAP31
+recordattack = true
+novisitneeded = true
+
+LEVEL 32
+mappack = maps.kart
+levelname = Toxic Palace
+subtitle = Emerald Cup 2
+typeoflevel = race
+numlaps = 3
+skynum = 117
+music = KMAP32
+recordattack = true
+novisitneeded = true
+
+LEVEL 33
+mappack = maps.kart
+levelname = Ancient Tomb
+subtitle = Emerald Cup 3
+typeoflevel = race
+numlaps = 3
+skynum = 74
+music = KMAP33
+recordattack = true
+novisitneeded = true
+sectionrace = true
+
+LEVEL 34
+mappack = maps.kart
+levelname = Cloud Cradle
+act = K
+subtitle = Emerald Cup 4
+typeoflevel = race
+numlaps = 3
+skynum = 73
+music = KMAP34
+recordattack = true
+novisitneeded = true
+
+LEVEL 35
+mappack = maps.kart
+levelname = Volcanic Valley
+subtitle = Emerald Cup FINAL
+typeoflevel = race
+numlaps = 3
+skynum = 28
+music = KMAP35
+recordattack = true
+novisitneeded = true
+palette = 3
+nextlevel = EVALUATION
+
+LEVEL 36
+mappack = maps.kart
+levelname = Kodachrome Void
+subtitle = Egg Cup 1
+typeoflevel = race
+numlaps = 3
+music = KMAP36
+recordattack = true
+novisitneeded = true
+unlockable = 1
+
+LEVEL 37
+mappack = maps.kart
+levelname = Boiling Bedrock
+subtitle = Egg Cup 2
+typeoflevel = race
+numlaps = 3
+skynum = 2517
+music = KMAP37
+recordattack = true
+novisitneeded = true
+unlockable = 1
+
+LEVEL 38
+mappack = maps.kart
+levelname = Egg Quarters
+nozone = true
+subtitle = Egg Cup 3
+typeoflevel = race
+numlaps = 3
+skynum = 3262
+music = KMAP38
+recordattack = true
+novisitneeded = true
+unlockable = 1
+
+LEVEL 39
+mappack = maps.kart
+levelname = Virtual Highway
+subtitle = Egg Cup 4
+typeoflevel = race
+numlaps = 3
+skynum = 12
+music = KMAP39
+recordattack = true
+novisitneeded = true
+unlockable = 1
+
+LEVEL 40
+mappack = maps.kart
+levelname = Eggman's Nightclub
+subtitle = Egg Cup FINAL
+typeoflevel = race
+numlaps = 2
+skynum = 8
+music = KMAP40
+recordattack = true
+novisitneeded = true
+unlockable = 1
+nextlevel = EVALUATION
+
+LEVEL 41
+mappack = maps.kart
+levelname = KKR Ganbare
+zonetitle = Dochu
+act = 2
+subtitle = Chao Cup 1
+typeoflevel = race
+numlaps = 5
+skynum = 714
+music = KMAP41
+recordattack = true
+novisitneeded = true
+unlockable = 2
+
+LEVEL 42
+mappack = maps.kart
+levelname = CK Chao
+zonetitle = Circuit
+act = 1
+subtitle = Chao Cup 2
+typeoflevel = race
+numlaps = 4
+skynum = 1
+music = KMAP42
+recordattack = true
+novisitneeded = true
+unlockable = 2
+
+LEVEL 43
+mappack = maps.kart
+levelname = CK Chao
+zonetitle = Circuit
+act = 2
+subtitle = Chao Cup 3
+typeoflevel = race
+numlaps = 2
+skynum = 3388
+music = KMAP43
+recordattack = true
+novisitneeded = true
+unlockable = 2
+
+LEVEL 44
+mappack = maps.kart
+levelname = CK Cloud
+zonetitle = Tops
+act = 2
+subtitle = Chao Cup 4
+typeoflevel = race
+numlaps = 4
+palette = 177
+skynum = 2002
+music = KMAP44
+recordattack = true
+novisitneeded = true
+unlockable = 2
+
+LEVEL 45
+mappack = maps.kart
+levelname = CK Regal
+zonetitle = Raceway
+subtitle = Chao Cup FINAL
+typeoflevel = race
+numlaps = 2
+skynum = 715
+music = KMAP45
+recordattack = true
+novisitneeded = true
+unlockable = 2
+nextlevel = EVALUATION
+
+LEVEL 46
+mappack = maps.kart
+levelname = SD2 Balloon
+zonetitle = Panic
+subtitle = Swap Cup 1
+typeoflevel = race
+numlaps = 4
+mobjscale = FRACUNIT/2
+skynum = 357
+music = KMAP46
+recordattack = true
+novisitneeded = true
+
+LEVEL 47
+mappack = maps.kart
+levelname = SM Special
+zonetitle = Stage
+act = 3
+subtitle = Swap Cup 2
+typeoflevel = race
+numlaps = 5
+mobjscale = 7*FRACUNIT/8
+skynum = 700
+skyboxscale = 128
+music = KMAP47
+recordattack = true
+novisitneeded = true
+
+LEVEL 48
+mappack = maps.kart
+levelname = MKSC Sky
+zonetitle = Garden
+subtitle = Swap Cup 3
+typeoflevel = race
+numlaps = 3
+skynum = 40
+music = KMAP48
+recordattack = true
+novisitneeded = true
+
+LEVEL 49
+mappack = maps.kart
+levelname = MKDS Peach
+zonetitle = Gardens
+subtitle = Swap Cup 4
+typeoflevel = race
+numlaps = 3
+skynum = 30
+music = KMAP49
+recordattack = true
+novisitneeded = true
+
+LEVEL 50
+mappack = maps.kart
+levelname = MKSC Rainbow
+zonetitle = Road
+subtitle = Swap Cup FINAL
+typeoflevel = race
+numlaps = 3
+skynum = 61
+skyboxscale = 128
+music = KMAP50
+recordattack = true
+novisitneeded = true
+nextlevel = EVALUATION
+
+LEVEL 51
+mappack = maps.kart
+levelname = SMK Donut
+zonetitle = Plains
+act = 1
+subtitle = SMK Cup 1
+typeoflevel = race
+numlaps = 5
+skynum = 42
+skyboxscalez = 0
+music = KMAP51
+recordattack = true
+novisitneeded = true
+unlockable = 3
+
+LEVEL 52
+mappack = maps.kart
+levelname = SMK Mario
+zonetitle = Circuit
+act = 2
+subtitle = SMK Cup 2
+typeoflevel = race
+numlaps = 5
+skynum = 41
+skyboxscalez = 0
+music = KMAP52
+recordattack = true
+novisitneeded = true
+unlockable = 3
+
+LEVEL 53
+mappack = maps.kart
+levelname = SMK Ghost
+zonetitle = Valley
+act = 2
+subtitle = SMK Cup 3
+typeoflevel = race
+numlaps = 5
+skynum = 46
+skyboxscalez = 0
+music = KMAP53
+recordattack = true
+novisitneeded = true
+unlockable = 3
+
+LEVEL 54
+mappack = maps.kart
+levelname = SMK Bowser
+zonetitle = Castle
+act = 3
+subtitle = SMK Cup 4
+typeoflevel = race
+numlaps = 5
+skynum = 6343
+skyboxscalez = 0
+music = KMAP54
+recordattack = true
+novisitneeded = true
+unlockable = 3
+
+LEVEL 55
+mappack = maps.kart
+levelname = SMK Vanilla
+zonetitle = Lake
+act = 2
+subtitle = SMK Cup FINAL
+typeoflevel = race
+numlaps = 5
+skynum = 45
+skyboxscalez = 0
+music = KMAP55
+recordattack = true
+novisitneeded = true
+unlockable = 3
+nextlevel = EVALUATION
+
+LEVEL 01
+mappack = maps.kart
+levelname = Green Hills
+subtitle = Ring Cup 1
+typeoflevel = race
+numlaps = 3
+skynum = 88
+music = KMAP01
+recordattack = true
+novisitneeded = true
+
+LEVEL 02
+mappack = maps.kart
+levelname = Dark Race
+nozone = true
+subtitle = Ring Cup 2
+typeoflevel = race
+numlaps = 3
+skynum = 88
+music = KMAP02
+recordattack = true
+novisitneeded = true
+
+LEVEL 03
+mappack = maps.kart
+levelname = Northern District
+subtitle = Ring Cup 3
+typeoflevel = race
+numlaps = 3
+skynum = 52
+skyboxscale = 10
+weather = PRECIP_RAIN
+music = KMAP03
+recordattack = true
+novisitneeded = true
+
+LEVEL 04
+mappack = maps.kart
+levelname = Darkvile Garden
+subtitle = Ring Cup 4
+typeoflevel = race
+numlaps = 3
+skynum = 11
+weather = PRECIP_RAIN
+music = KMAP04
+recordattack = true
+novisitneeded = true
+
+LEVEL 05
+mappack = maps.kart
+levelname = Daytona Speedway
+subtitle = Ring Cup FINAL
+typeoflevel = race
+numlaps = 3
+skynum = 91
+music = KMAP05
+recordattack = true
+novisitneeded = true
+nextlevel = EVALUATION
+
+LEVEL 06
+mappack = maps.kart
+levelname = Egg Zeppelin
+subtitle = Sneaker Cup 1
+typeoflevel = race
+numlaps = 3
+skynum = 7492
+skyboxscale = 128
+music = KMAP06
+recordattack = true
+novisitneeded = true
+
+LEVEL 07
+mappack = maps.kart
+levelname = Sonic Speedway
+subtitle = Sneaker Cup 2
+typeoflevel = race
+numlaps = 3
+skynum = 88
+music = KMAP07
+recordattack = true
+novisitneeded = true
+
+LEVEL 08
+mappack = maps.kart
+levelname = Hill Top
+subtitle = Sneaker Cup 3
+typeoflevel = race
+numlaps = 3
+skynum = 88
+skyboxscalex = 128
+skyboxscaley = 128
+skyboxscalez = 64
+music = KMAP08
+recordattack = true
+novisitneeded = true
+
+LEVEL 09
+mappack = maps.kart
+levelname = Misty Maze
+subtitle = Sneaker Cup 4
+typeoflevel = race
+numlaps = 3
+skynum = 88
+music = KMAP09
+recordattack = true
+novisitneeded = true
+
+LEVEL b0
+mappack = maps.kart
+levelname = Municipal Meadow
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPB0
+skynum = 91
+recordattack = 0
+levelselect = 1
+skyboxscale = 64
+
+LEVEL b1
+mappack = maps.kart
+levelname = Tricircle Marina
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 60
+skyboxscale = 128
+music = KMAPB1
+
+LEVEL b2
+mappack = maps.kart
+levelname = Tinkerer's Arena
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 1
+music = KMAPB2
+
+LEVEL b3
+mappack = maps.kart
+levelname = Clucky Farms
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 2002
+music = KMAPB3
+
+LEVEL b4
+mappack = maps.kart
+levelname = Techno Hill
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPB4
+skynum = 4
+mobjscale = 7*FRACUNIT/8
+
+LEVEL b5
+mappack = maps.kart
+levelname = Marble
+skynum = 88
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPB5
+
+LEVEL b6
+mappack = maps.kart
+levelname = Colosseum
+subtitle = Battle Mode
+nozone = true
+typeoflevel = battle
+music = KMAPB6
+
+LEVEL b7
+mappack = maps.kart
+levelname = Dried Battledune
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 4733
+music = KMAPB7
+
+LEVEL b8
+mappack = maps.kart
+levelname = Eerie Grove
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPB8
+skynum = 87
+
+LEVEL b9
+mappack = maps.kart
+levelname = Rusty Rig
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 118
+music = KMAPB9
+
+LEVEL ba
+mappack = maps.kart
+levelname = Fantastic Tabernacle
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPBA
+skynum = 1012
+
+LEVEL bb
+mappack = maps.kart
+levelname = Bad Taste
+zonetitle = Aquarium
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPBB
+skynum = 821
+
+LEVEL bc
+mappack = maps.kart
+levelname = Spotlight Syndicate
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPBC
+skynum = 8
+
+LEVEL bd
+mappack = maps.kart
+levelname = City Skyline
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 52
+skyboxscalez = 64
+music = KMAPBD
+
+LEVEL be
+mappack = maps.kart
+levelname = Fakery Way
+subtitle = Battle Mode
+nozone = true
+typeoflevel = battle
+music = KMAPBE
+
+LEVEL bf
+mappack = maps.kart
+levelname = Bumper Carts
+nozone = true
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPBF
+
+LEVEL bg
+mappack = maps.kart
+levelname = Death Egg's Eye
+subtitle = Battle Mode
+nozone = true
+typeoflevel = battle
+skynum = 22
+music = KMAPBG
+skyboxscale = 0
+
+LEVEL bh
+mappack = maps.kart
+levelname = Power Plant
+nozone = true
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPBH
+skynum = 6
+skyboxscale = 2
+
+LEVEL bi
+mappack = maps.kart
+levelname = Tails' Lab
+nozone = true
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPBI
+
+LEVEL bj
+mappack = maps.kart
+levelname = Armored
+zonetitle = Armadillo
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPBJ
+skynum = 91
+
+LEVEL bk
+mappack = maps.kart
+levelname = Trigger Happy
+zonetitle = Havoc
+subtitle = Battle Mode
+typeoflevel = battle
+music = KMAPBK
+
+LEVEL bl
+mappack = maps.kart
+levelname = Mementos
+nozone = true
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 1
+music = KMAPBL
+
+LEVEL bm
+mappack = maps.kart
+levelname = CD Special
+zonetitle = Stage
+act = 1
+subtitle = Battle Mode
+typeoflevel = battle
+nextlevel = B0
+skynum = 93
+music = KMAPBM
+mobjscale = 3*FRACUNIT/4
+
+LEVEL bn
+mappack = maps.kart
+levelname = SMK Battle
+zonetitle = Course
+act = 1
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 42
+skyboxscalez = 64
+music = KMAPBN
+
+LEVEL bo
+mappack = maps.kart
+levelname = SMK Battle
+zonetitle = Course
+act = 2
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 45
+skyboxscalez = 64
+music = KMAPBN
+
+LEVEL bp
+mappack = maps.kart
+levelname = SMK Battle
+zonetitle = Course
+act = 3
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 45
+skyboxscalez = 64
+music = KMAPBP
+
+LEVEL bq
+mappack = maps.kart
+levelname = SMK Battle
+zonetitle = Course
+act = 4
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 41
+skyboxscalez = 64
+music = KMAPBN
+
+LEVEL br
+mappack = maps.kart
+levelname = MK64 Block
+zonetitle = Fort
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 88
+skyboxscale = 128
+music = KMAPBR
+
+LEVEL bs
+mappack = maps.kart
+levelname = MK64 Double
+zonetitle = Deck
+subtitle = Battle Mode
+typeoflevel = battle
+skynum = 88
+music = KMAPBR
+nextlevel = B0
+
+LEVEL h0
+mappack = maps.kart
+levelname = Crystal Abyss
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 2
+music = KMAPH0
+skynum = 87
+hidden = true
+nextlevel = 1
+
+LEVEL h1
+mappack = maps.kart
+levelname = Peach's Castle
+nozone = true
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 3
+skynum = 30
+music = KMAPH1
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL h2
+mappack = maps.kart
+levelname = Arid Sands
+subtitle = MAP HELL
+nozone = true
+typeoflevel = race
+numlaps = 3
+music = KMAPH2
+skynum = 72
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL h4
+mappack = maps.kart
+levelname = Chemical Facility
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 2
+music = KMAPH4
+skynum = 1017
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL h5
+mappack = maps.kart
+levelname = 3 Color Drive
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 3
+music = KMAPH5
+skynum = 78
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL h6
+mappack = maps.kart
+levelname = CK Cloud
+zonetitle = Tops
+act = 1
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 3
+music = KMAPH6
+skynum = 1
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL h7
+mappack = maps.kart
+levelname = CK Dungeon
+zonetitle = Maze
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 4
+music = KMAPH7
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL h9
+mappack = maps.kart
+levelname = PWR Retro
+zonetitle = Maze
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 3
+mobjscale = 7*FRACUNIT/8
+skynum = 8
+music = KMAPH9
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL ha
+mappack = maps.kart
+levelname = SRB2 Frozen
+zonetitle = Night
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 4
+skynum = 8
+weather = PRECIP_SNOW
+music = KMAPHA
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL hb
+mappack = maps.kart
+levelname = CNR Townsville
+zonetitle = Raceway
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 3
+music = KMAPHB
+skynum = 1019
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL hc
+mappack = maps.kart
+levelname = FZ Silence
+nozone = true
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 3
+mobjscale = FRACUNIT/2
+skynum = 2432
+music = KMAPHC
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL hd
+mappack = maps.kart
+levelname = SMK Rainbow
+zonetitle = Road
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 5
+skynum = 46
+skyboxscalez = 0
+music = KMAPHD
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL he
+mappack = maps.kart
+levelname = SRB2 Meadow
+zonetitle = Match
+subtitle = MAP HELL
+typeoflevel = battle
+music = KMAPHE
+skynum = 1
+hidden = true
+nextlevel = B0
+
+LEVEL hf
+mappack = maps.kart
+levelname = battal BOWL
+zonetitle = Match
+subtitle = MAP HELL
+typeoflevel = battle
+skynum = 371
+music = KMAPHF
+hidden = true
+nextlevel = B0
+
+LEVEL h3
+mappack = maps.kart
+levelname = Volcanic Valley
+zonetitle = Classic
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 3
+skynum = 117
+music = KMAP35
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL h8
+mappack = maps.kart
+levelname = Diamond Square
+zonetitle = Classic
+subtitle = MAP HELL
+skynum = 5
+music = KMAPH8
+typeoflevel = race
+numlaps = 3
+hidden = true
+recordattack = true
+novisitneeded = true
+nextlevel = 1
+
+LEVEL hg
+mappack = maps.kart
+levelname = Peach's Castle B
+nozone = true
+subtitle = MAP HELL
+typeoflevel = battle
+skynum = 30
+music = KMAPH1
+hidden = true
+nextlevel = B0
+
+LEVEL hh
+mappack = maps.kart
+levelname = Blue Mountain
+zonetitle = Classic
+subtitle = MAP HELL
+typeoflevel = race
+numlaps = 3
+skynum = 17
+skyboxscale = 0
+weather = PRECIP_SNOW
+music = KMAPHH
+recordattack = true
+novisitneeded = true
+hidden = true
+nextlevel = 1
+

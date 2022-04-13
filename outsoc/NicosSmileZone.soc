@@ -1,0 +1,11 @@
+LEVEL ni
+mappack = KR_NicosSmileZone_v1.2.pk3
+levelname = Nico's Smile
+subtitle = Nico Nico Nii!
+typeoflevel = race
+recordattack = true
+numlaps = 6
+skynum = 1
+nextlevel = 1
+music = MAPNIM
+

@@ -1,0 +1,112 @@
+LEVEL va
+mappack = KRL_SparkCup_V2_65.pk3
+levelname = Magical Monolith
+subtitle = Spark Cup 1
+levelselect = 1
+typeoflevel = race
+recordattack = True
+numlaps = 2
+skynum = 8
+nextlevel = VB
+lua.arcadetime = 100
+lua.arcadebonus = 50
+
+LEVEL vb
+mappack = KRL_SparkCup_V2_65.pk3
+levelname = Sweet Wonderland
+subtitle = Spark Cup 2
+levelselect = 1
+typeoflevel = race
+recordattack = True
+numlaps = 5
+skynum = 424
+nextlevel = VC
+lua.arcadetime = 80
+lua.arcadebonus = 20
+
+LEVEL vc
+mappack = KRL_SparkCup_V2_65.pk3
+levelname = Submerged Shipwreck
+subtitle = Spark Cup 3
+levelselect = 1
+typeoflevel = race
+recordattack = True
+numlaps = 3
+skynum = 3388
+skyboxscale = 8
+weather = 3
+nextlevel = VD
+lua.arcadetime = 80
+lua.arcadebonus = 50
+
+LEVEL vd
+mappack = KRL_SparkCup_V2_65.pk3
+levelname = Cerulean Riviera
+subtitle = Spark Cup 4
+levelselect = 1
+typeoflevel = race
+recordattack = True
+numlaps = 3
+skynum = 6461
+nextlevel = VE
+lua.arcadetime = 80
+lua.arcadebonus = 40
+
+LEVEL ve
+mappack = KRL_SparkCup_V2_65.pk3
+levelname = Ironbed River
+subtitle = Spark Cup FINAL
+levelselect = 1
+typeoflevel = race
+recordattack = True
+sectionrace = true
+numlaps = 3
+skynum = 2517
+nextlevel = VG
+lua.arcadetime = 90
+lua.arcadebonus = 30
+
+LEVEL vf
+mappack = KRL_SparkCup_V2_65.pk3
+levelname = Sloppy Sludge
+subtitle = Slippery!
+levelselect = 1
+typeoflevel = race
+recordattack = True
+numlaps = 4
+skynum = 73
+nextlevel = 1
+lua.arcadetime = 65
+lua.arcadebonus = 40
+lua.lapcheckpoints = 2
+lua.hasannouncer = true
+
+LEVEL vh
+mappack = KRL_SparkCup_V2_65.pk3
+levelname = Submerged Shipwreck
+zonetitle = Mini
+subtitle = Love in the Dark
+levelselect = 1
+typeoflevel = race
+recordattack = True
+numlaps = 7
+skynum = 11
+skyboxscale = 8
+weather = 0
+hidden = true
+nextlevel = VA
+lua.arcadetime = 50
+lua.arcadebonus = 12
+
+LEVEL vj
+mappack = KRL_SparkCup_V2_65.pk3
+levelname = Touge
+subtitle = The Legendary
+typeoflevel = race
+hidden = true
+recordattack = True
+sectionrace = true
+numlaps = 4
+skynum = 98
+nextlevel = 1
+

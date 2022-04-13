@@ -1,0 +1,87 @@
+LEVEL pf
+mappack = KRL_RA_Extended-v3.1.pk3
+levelname = Stardust Drive
+subtitle = Stardust Cup 1
+levelselect = 1
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 2
+skynum = 8
+music = KMAPPF
+skyboxscale = 0
+lua.arcadetime = 90
+lua.arcadebonus = 50
+lua.clocktime = 150
+
+LEVEL pc
+mappack = KRL_RA_Extended-v3.1.pk3
+levelname = Monster Monarch
+subtitle = Stardust Cup 2
+levelselect = 1
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 3
+skynum = 8
+weather = PRECIP_STORM
+music = KMAPPC
+
+LEVEL ph
+mappack = KRL_RA_Extended-v3.1.pk3
+levelname = Cosmic Eclipse
+subtitle = Stardust Cup Final
+levelselect = 1
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 2
+skynum = 8
+music = KMAPPH
+skyboxscale = 0
+lua.mkscbc1 = true
+
+LEVEL pi
+mappack = KRL_RA_Extended-v3.1.pk3
+levelname = Monster Monarch
+zonetitle = Classic
+subtitle = Actual Map Hell
+levelselect = 5
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+hidden = true
+numlaps = 3
+skynum = 8
+weather = PRECIP_STORM
+music = KMAPP1
+
+LEVEL pe
+mappack = KRL_RA_Extended-v3.1.pk3
+levelname = Cosmic Eclipse
+zonetitle = Classic
+subtitle = Actual Map Hell
+levelselect = 1
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+hidden = true
+numlaps = 2
+skynum = 8
+music = KMAPPH
+skyboxscale = 0
+lua.mkscbc1 = true
+
+LEVEL pg
+mappack = KRL_RA_Extended-v3.1.pk3
+levelname = Super Rainbow
+zonetitle = Road
+subtitle = Prismatic Cup 1
+typeoflevel = race
+numlaps = 3
+skynum = 46
+skyboxscalez = 0
+music = KMAPPG
+recordattack = true
+lua.mkscbc1 = true
+

@@ -1,0 +1,97 @@
+LEVEL bt
+mappack = KR_NovaPack-v2.2.pk3
+levelname = Eurobeat Highway
+subtitle = By Novaphyer
+levelselect = 6
+music = KMAPBT
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 3
+skynum = 1
+
+LEVEL bu
+mappack = KR_NovaPack-v2.2.pk3
+levelname = Deep Glacial
+subtitle = By Novaphyer
+levelselect = 2
+music = KMAPBU
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 4
+skynum = 1
+weather = Precip_Snow
+lua.arcadetime = 75
+lua.arcadebonus = 30
+
+LEVEL bv
+mappack = KR_NovaPack-v2.2.pk3
+levelname = Salt Quarantine
+subtitle = By Novaphyer
+levelselect = 3
+music = KMAPBV
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 2
+skynum = 1
+lua.arcadetime = 90
+lua.arcadebonus = 60
+
+LEVEL bw
+mappack = KR_NovaPack-v2.2.pk3
+levelname = Howling Bogs
+subtitle = By Novaphyer
+levelselect = 3
+music = KMAPBW
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 3
+skynum = 1
+weather = PRECIP_RAIN
+
+LEVEL bx
+mappack = KR_NovaPack-v2.2.pk3
+levelname = National Park
+subtitle = Hope you stocked up on Repels
+nozone = true
+levelselect = 6
+music = KMAPBX
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 15
+hidden = true
+skynum = 9393
+
+LEVEL by
+mappack = KR_NovaPack-v2.2.pk3
+levelname = Brimstone Ruins
+subtitle = By Novaphyer
+levelselect = 5
+music = KMAPBY
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 5
+skynum = 1
+
+LEVEL bz
+mappack = KR_NovaPack-v2.2.pk3
+levelname = Golden Passage
+subtitle = By Novaphyer
+zonetitle = WL4
+levelselect = 4
+music = KMAPBZ
+typeoflevel = race
+recordattack = True
+novisitneeded = True
+numlaps = 8
+skynum = 1
+lua.forcewariohud = true
+lua.noextension = true
+lua.arcadetime = 75
+lua.arcadebonus = 15
+
