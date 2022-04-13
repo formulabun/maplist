@@ -1,6 +1,6 @@
 {
   "name": "maplist",
-  "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,6 +10,6 @@
   "author": "Fl_GUI",
   "license": "ISC",
   "dependencies": {
-    "srb2kartjs": "^2.2.6"
+    "srb2kartjs": "^2.2.8"
   }
 }
