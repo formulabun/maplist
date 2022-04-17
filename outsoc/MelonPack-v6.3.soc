@@ -1,5 +1,4 @@
 LEVEL y6
-mappack = KRBL_MelonPack-v6.3.pk3
 levelname = Skeletal Sands
 subtitle = Melon Pack
 typeoflevel = race
@@ -9,17 +8,15 @@ skyboxscalez = 0
 palette = 9029
 
 LEVEL y7
-mappack = KRBL_MelonPack-v6.3.pk3
 levelname = Thunder Circuit
 subtitle = Melon Pack
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 7
 skynum = 5029
 weather = PRECIP_STORM_NOSTRIKES
 palette = 9030
 
 LEVEL y8
-mappack = KRBL_MelonPack-v6.3.pk3
 levelname = Killer Skies
 subtitle = Melon Pack
 typeoflevel = race
@@ -29,7 +26,6 @@ skyboxscalez = 0
 palette = 9031
 
 LEVEL y9
-mappack = KRBL_MelonPack-v6.3.pk3
 levelname = Diamond Dust
 zonetitle = Zone
 subtitle = Melon Pack
@@ -39,35 +35,31 @@ numlaps = 4
 skynum = 2735
 
 LEVEL yy
-mappack = KRBL_MelonPack-v6.3.pk3
 levelname = VB Raceway
 subtitle = Melon Pack
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 5
 skynum = 461
 palette = 6970
 mobjscale = FRACUNIT*7/9
 
 LEVEL yz
-mappack = KRBL_MelonPack-v6.3.pk3
 levelname = Hyrule Forest
 subtitle = Melon Pack
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 461
 
 LEVEL zt
-mappack = KRBL_MelonPack-v6.3.pk3
 levelname = Pool Party
 subtitle = Melon Pack
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 461
 
 LEVEL zx
-mappack = KRBL_MelonPack-v6.3.pk3
 levelname = Wind Fish
 zonetitle = Egg
 subtitle = Melon Pack
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 461
 mobjscale = FRACUNIT/2
 

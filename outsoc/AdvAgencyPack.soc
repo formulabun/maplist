@@ -1,8 +1,7 @@
 LEVEL 70
-mappack = KR_AdvAgencyPack_v1.8.1.pk3
 levelname = Drippy Docks
 subtitle = Adventurer's Cup 1
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 190
 music = MAP70M
@@ -10,14 +9,12 @@ recordattack = true
 novisitneeded = true
 lua.arcadetime = 95
 lua.arcadebonus = 50
-hidden = true
 
 LEVEL 71
-mappack = KR_AdvAgencyPack_v1.8.1.pk3
 levelname = GigaByte Glade
 subtitle = Adventurer's Cup 2
-typeoflevel = race
-numlaps = 1
+typeoflevel = singleplayer
+numlaps = 2
 skynum = 60
 music = MAP71M
 recordattack = true
@@ -26,10 +23,9 @@ lua.arcadetime = 95
 lua.arcadebonus = 55
 
 LEVEL 72
-mappack = KR_AdvAgencyPack_v1.8.1.pk3
 levelname = Cosmic Coast
 subtitle = Adventurer's Cup 3
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 2
 skynum = 200
 music = MAP72M
@@ -39,7 +35,6 @@ lua.arcadetime = 95
 lua.arcadebonus = 55
 
 LEVEL 73
-mappack = KR_AdvAgencyPack_v1.8.1.pk3
 levelname = Pizza Panic
 subtitle = Adventurer's Cup 4
 typeoflevel = race
@@ -52,7 +47,6 @@ lua.arcadetime = 105
 lua.arcadebonus = 65
 
 LEVEL 74
-mappack = KR_AdvAgencyPack_v1.8.1.pk3
 levelname = Banger Boneyard
 subtitle = Adventurer's Cup 5
 typeoflevel = race

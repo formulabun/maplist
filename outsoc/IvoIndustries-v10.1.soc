@@ -1,5 +1,4 @@
 LEVEL u1
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Liquidation Circuit
 subtitle = Volatile Speed
 typeoflevel = race
@@ -14,7 +13,6 @@ skyboxscalez = 8
 mobjscale = FRACUNIT*90/100
 
 LEVEL u2
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Canyon Cascade
 subtitle = Switchback Surprise
 typeoflevel = race
@@ -25,10 +23,9 @@ nextlevel = U3
 music = MAPU2M
 
 LEVEL u3
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Wave Dimension
 subtitle = Collect Blue Spheres
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 numlaps = 3
 skynum = 1
@@ -36,7 +33,6 @@ nextlevel = U4
 music = MAPU3M
 
 LEVEL u4
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Ballistic Reef
 subtitle = Ominous Ambiance
 typeoflevel = race
@@ -51,7 +47,6 @@ skyboxscaley = 16
 skyboxscalez = 16
 
 LEVEL u5
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Splashdown
 subtitle = Dimps Bot Paradise
 typeoflevel = race
@@ -64,7 +59,6 @@ music = MAPU5M
 mobjscale = FRACUNIT/2
 
 LEVEL u6
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Hyudoro Hideaway
 subtitle = Spoopy
 typeoflevel = race
@@ -76,7 +70,6 @@ music = MAPU6M
 mobjscale = FRACUNIT*115/100
 
 LEVEL u7
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Opulence
 subtitle = Indulgence Incarnate
 typeoflevel = race
@@ -87,7 +80,6 @@ nextlevel = 1
 music = MAPU7M
 
 LEVEL u8
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Motobug Motorway
 subtitle = Motogang Represent
 typeoflevel = race
@@ -99,7 +91,6 @@ music = MAPU8M
 mobjscale = FRACUNIT*110/100
 
 LEVEL u9
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Lubrication Lagoon
 subtitle = So Crude
 typeoflevel = race
@@ -112,10 +103,9 @@ palette = 8356
 mobjscale = FRACUNIT*105/100
 
 LEVEL ua
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Floral Dimension
 subtitle = Collect Blue Spheres
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 numlaps = 2
 skynum = 40
@@ -123,7 +113,6 @@ nextlevel = 1
 music = MAPUAM
 
 LEVEL uv
-mappack = KRL_IvoIndustries-v10.1.pk3
 levelname = Cloudtop Spire
 subtitle = Acrophobics Nightmare
 typeoflevel = race

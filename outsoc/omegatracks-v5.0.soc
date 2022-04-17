@@ -1,5 +1,4 @@
 LEVEL km
-mappack = KRBL_omegatracks-v5.0.pk3
 levelname = Disk Operating System
 subtitle = OmegaTracks V5
 typeoflevel = race
@@ -8,16 +7,14 @@ skynum = 1
 music = DOSZON
 
 LEVEL kn
-mappack = KRBL_omegatracks-v5.0.pk3
 levelname = Frosted Flower
 subtitle = OmegaTracks V5
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 5
 skynum = 1
 music = FROSTF
 
 LEVEL ko
-mappack = KRBL_omegatracks-v5.0.pk3
 levelname = The Untitled
 subtitle = OmegaTracks V5
 zonetitle = Forest
@@ -27,7 +24,6 @@ skynum = 2838
 music = BRUFOR
 
 LEVEL kq
-mappack = KRBL_omegatracks-v5.0.pk3
 levelname = Home
 subtitle = OmegaTracks V5
 zonetitle = Base
@@ -39,7 +35,6 @@ music = HOMBA2
 lua.speedpadstoring = true
 
 LEVEL kr
-mappack = KRBL_omegatracks-v5.0.pk3
 levelname = Azure Lake
 subtitle = OmegaTracks V5
 typeoflevel = race
@@ -48,7 +43,6 @@ skynum = 7486
 music = AZLAKE
 
 LEVEL ks
-mappack = KRBL_omegatracks-v5.0.pk3
 levelname = Gigapolis
 subtitle = OmegaTracks V5
 zonetitle = Zone
@@ -59,21 +53,19 @@ music = GIGAPO
 mobjscale 90/100 = undefined
 
 LEVEL ku
-mappack = KRBL_omegatracks-v5.0.pk3
 levelname = A Lovelier
 subtitle = OmegaTracks V5
 zonetitle = Afternoon
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 2
 skynum = 1
 music = ALOVAF
 
 LEVEL zz
-mappack = KRBL_omegatracks-v5.0.pk3
 levelname = Unused Podium
 subtitle = what the fuck logan
 zonetitle = Map
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 20
 skynum = 1
 music = UPODIM

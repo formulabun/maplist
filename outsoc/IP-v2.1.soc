@@ -1,5 +1,4 @@
 LEVEL s0
-mappack = KRB_IP-v2.1.pk3
 levelname = Hydrocity
 subtitle = Star Cup 1
 typeoflevel = race
@@ -11,17 +10,15 @@ skyboxscalez = 6
 music = HCZ
 
 LEVEL s1
-mappack = KRB_IP-v2.1.pk3
 levelname = Gemstone Garden
 subtitle = Star Cup 2
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 999
 skyboxscale = 0
 music = GGZ
 
 LEVEL s2
-mappack = KRB_IP-v2.1.pk3
 levelname = Retrowave Rush
 subtitle = Star Cup 3
 typeoflevel = race
@@ -31,17 +28,15 @@ skyboxscale = 0
 music = SG
 
 LEVEL s3
-mappack = KRB_IP-v2.1.pk3
 levelname = Shivering Night
 subtitle = Star Cup FINAL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 5
 skynum = 6
 music = CEN
 weather = PRECIP_SNOW
 
 LEVEL bt
-mappack = KRB_IP-v2.1.pk3
 levelname = Metropolis
 subtitle = Battle Mode
 typeoflevel = battle
@@ -52,7 +47,6 @@ skyboxscalez = 6
 music = MPZ
 
 LEVEL hi
-mappack = KRB_IP-v2.1.pk3
 levelname = Daytona Hell
 subtitle = ~Eternal Suffering~
 typeoflevel = race
@@ -61,6 +55,6 @@ skynum = 20
 music = DAY
 recordattack = true
 novisitneeded = true
-hidden = true
+hidden = false
 nextlevel = EVALUATION
 

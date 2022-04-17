@@ -1,5 +1,4 @@
 LEVEL pf
-mappack = KRL_RA_Extended-v3.1.pk3
 levelname = Stardust Drive
 subtitle = Stardust Cup 1
 levelselect = 1
@@ -15,7 +14,6 @@ lua.arcadebonus = 50
 lua.clocktime = 150
 
 LEVEL pc
-mappack = KRL_RA_Extended-v3.1.pk3
 levelname = Monster Monarch
 subtitle = Stardust Cup 2
 levelselect = 1
@@ -28,7 +26,6 @@ weather = PRECIP_STORM
 music = KMAPPC
 
 LEVEL ph
-mappack = KRL_RA_Extended-v3.1.pk3
 levelname = Cosmic Eclipse
 subtitle = Stardust Cup Final
 levelselect = 1
@@ -42,12 +39,11 @@ skyboxscale = 0
 lua.mkscbc1 = true
 
 LEVEL pi
-mappack = KRL_RA_Extended-v3.1.pk3
 levelname = Monster Monarch
 zonetitle = Classic
 subtitle = Actual Map Hell
 levelselect = 5
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 novisitneeded = True
 hidden = true
@@ -57,12 +53,11 @@ weather = PRECIP_STORM
 music = KMAPP1
 
 LEVEL pe
-mappack = KRL_RA_Extended-v3.1.pk3
 levelname = Cosmic Eclipse
 zonetitle = Classic
 subtitle = Actual Map Hell
 levelselect = 1
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 novisitneeded = True
 hidden = true
@@ -73,7 +68,6 @@ skyboxscale = 0
 lua.mkscbc1 = true
 
 LEVEL pg
-mappack = KRL_RA_Extended-v3.1.pk3
 levelname = Super Rainbow
 zonetitle = Road
 subtitle = Prismatic Cup 1

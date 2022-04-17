@@ -1,9 +1,8 @@
 LEVEL f5
-mappack = KR_milkpack-v1.1.pk3
 levelname = GBA Mario Circuit
 nozone = True
 subtitle = Milk Carton Cup
-typeoflevel = race
+typeoflevel = singleplayer
 skynum = 357
 skyboxscalez = 64
 numlaps = 3
@@ -12,7 +11,6 @@ recordattack = true
 music = MAPF5
 
 LEVEL f6
-mappack = KR_milkpack-v1.1.pk3
 levelname = Marble Drome
 subtitle = Milk Carton Cup
 typeoflevel = race
@@ -23,7 +21,6 @@ skyboxscalez = 64
 music = MAPF6
 
 LEVEL f7
-mappack = KR_milkpack-v1.1.pk3
 levelname = Milk Capital
 subtitle = Milk Carton Cup
 typeoflevel = race

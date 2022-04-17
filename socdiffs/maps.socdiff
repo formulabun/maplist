@@ -1,203 +1,267 @@
-LEVEL 01
+Level 1
 
-LEVEL 02
+Level 2
+TypeOfLevel = SinglePlayer
 
-LEVEL 03
+Level 3
 
-LEVEL 04
+Level 4
 
-LEVEL 05
+Level 5
 
-LEVEL 06
+Level 6
 
-LEVEL 07
+Level 7
 
-LEVEL 08
+Level 8
 
-LEVEL 09
+Level 9
 
-LEVEL 10
+Level 10
 
-LEVEL 11
+Level 11
 
-LEVEL 12
+Level 12
+TypeOfLevel = SinglePlayer
 
-LEVEL 13
+Level 13
 
-LEVEL 14
+Level 14
 
-LEVEL 15
+Level 15
 
-LEVEL 16
+Level 16
 
-LEVEL 17
+Level 17
 
-LEVEL 18
+Level 18
 
-LEVEL 19
+Level 19
 
-LEVEL 20
+Level 20
 
-LEVEL 21
+Level 21
 
-LEVEL 22
+Level 22
 
-LEVEL 23
+Level 23
 
-LEVEL 24
+Level 24
 
-LEVEL 25
+Level 25
 
-LEVEL 26
+Level 26
 
-LEVEL 27
+Level 27
 
-LEVEL 28
+Level 28
 
-LEVEL 29
+Level 29
 
-LEVEL 30
+Level 30
 
-LEVEL 31
+Level 31
 
-LEVEL 32
+Level 32
 
-LEVEL 33
+Level 33
 
-LEVEL 34
+Level 34
 
-LEVEL 35
+Level 35
 
-LEVEL 36
+Level 36
 
-LEVEL 37
+Level 37
 
-LEVEL 38
+Level 38
+TypeOfLevel = SinglePlayer
 
-LEVEL 39
+Level 39
 
-LEVEL 40
+Level 40
 
-LEVEL 41
+Level 41
+TypeOfLevel = SinglePlayer
 
-LEVEL 42
+Level 42
 
-LEVEL 43
+Level 43
 
-LEVEL 44
+Level 44
+TypeOfLevel = SinglePlayer
 
-LEVEL 45
+Level 45
+TypeOfLevel = SinglePlayer
 
-LEVEL 46
+Level 46
+TypeOfLevel = SinglePlayer
 
-LEVEL 47
+Level 47
 
-LEVEL 48
+Level 48
 
-LEVEL 49
+Level 49
+TypeOfLevel = SinglePlayer
 
-LEVEL 50
+Level 50
 
-LEVEL 51
+Level 51
+TypeOfLevel = SinglePlayer
 
-LEVEL 52
+Level 52
+TypeOfLevel = SinglePlayer
 
-LEVEL 53
+Level 53
+TypeOfLevel = SinglePlayer
 
-LEVEL 54
+Level 54
 
-LEVEL 55
+Level 55
 
-LEVEL B0
+Level B0
+TypeOfLevel = SinglePlayer
 
-LEVEL B1
+Level B1
+TypeOfLevel = SinglePlayer
 
-LEVEL B2
+Level B2
+TypeOfLevel = SinglePlayer
 
-LEVEL B3
+Level B3
+TypeOfLevel = SinglePlayer
 
-LEVEL B4
+Level B4
+TypeOfLevel = SinglePlayer
 
-LEVEL B5
+Level B5
+TypeOfLevel = SinglePlayer
 
-LEVEL B6
+Level B6
+TypeOfLevel = SinglePlayer
 
-LEVEL B7
+Level B7
+TypeOfLevel = SinglePlayer
 
-LEVEL B8
+Level B8
+TypeOfLevel = SinglePlayer
 
-LEVEL B9
+Level B9
+TypeOfLevel = SinglePlayer
 
-LEVEL BA
+Level BA
+TypeOfLevel = SinglePlayer
 
-LEVEL BB
+Level BB
+TypeOfLevel = SinglePlayer
 
-LEVEL BC
+Level BC
+TypeOfLevel = SinglePlayer
 
-LEVEL BD
+Level BD
+TypeOfLevel = SinglePlayer
 
-LEVEL BE
+Level BE
+TypeOfLevel = SinglePlayer
 
-LEVEL BF
+Level BF
+TypeOfLevel = SinglePlayer
 
-LEVEL BG
+Level BG
 
-LEVEL BH
+Level BH
+TypeOfLevel = SinglePlayer
 
-LEVEL BI
+Level BI
+TypeOfLevel = SinglePlayer
 
-LEVEL BJ
+Level BJ
+TypeOfLevel = SinglePlayer
 
-LEVEL BK
+Level BK
+TypeOfLevel = SinglePlayer
 
-LEVEL BL
+Level BL
+TypeOfLevel = SinglePlayer
 
-LEVEL BM
+Level BM
+TypeOfLevel = SinglePlayer
 
-LEVEL BN
+Level BN
+TypeOfLevel = SinglePlayer
 
-LEVEL BO
+Level BO
+TypeOfLevel = SinglePlayer
 
-LEVEL BP
+Level BP
+TypeOfLevel = SinglePlayer
 
-LEVEL BQ
+Level BQ
+TypeOfLevel = SinglePlayer
 
-LEVEL BR
+Level BR
+TypeOfLevel = SinglePlayer
 
-LEVEL BS
+Level BS
+TypeOfLevel = SinglePlayer
 
-LEVEL H0
+Level H0
+Hidden = false
 
-LEVEL H1
+Level H1
+TypeOfLevel = SinglePlayer
+Hidden = true
 
-LEVEL H2
+Level H2
+TypeOfLevel = SinglePlayer
+Hidden = true
 
-LEVEL H3
+Level H4
+Hidden = false
 
-LEVEL H4
+Level H5
+Hidden = false
 
-LEVEL H5
+Level H6
+Hidden = false
 
-LEVEL H6
+Level H7
+TypeOfLevel = SinglePlayer
+Hidden = true
 
-LEVEL H7
+Level H9
+TypeOfLevel = SinglePlayer
+Hidden = true
 
-LEVEL H8
+Level HA
+TypeOfLevel = SinglePlayer
+Hidden = true
 
-LEVEL H9
+Level HC
+Hidden = false
 
-LEVEL HA
+Level HD
+Hidden = false
 
-LEVEL HB
+Level HE
+TypeOfLevel = SinglePlayer
+Hidden = True
 
-LEVEL HC
+Level HF
+TypeOfLevel = SinglePlayer
+Hidden = true
 
-LEVEL HD
+Level H3
+TypeOfLevel = SinglePlayer
+Hidden = true
 
-LEVEL HE
+Level H8
+TypeOfLevel = SinglePlayer
+Hidden = true
 
-LEVEL HF
+Level HG
+TypeOfLevel = SinglePlayer
+Hidden = true
 
-LEVEL HG
-
-LEVEL HH
+Level HH
+Hidden = false

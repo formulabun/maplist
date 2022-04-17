@@ -1,5 +1,4 @@
 LEVEL 56
-mappack = patch.kart
 levelname = Lake Margorite
 subtitle = Comm. Cup 1 by MK
 typeoflevel = race
@@ -10,7 +9,6 @@ recordattack = true
 novisitneeded = true
 
 LEVEL 57
-mappack = patch.kart
 levelname = Coastal Temple
 subtitle = Comm. Cup 2 by TG
 skynum = 91
@@ -21,7 +19,6 @@ recordattack = true
 novisitneeded = true
 
 LEVEL 58
-mappack = patch.kart
 levelname = Kart Airlines
 music = MAP58M
 skynum = 31
@@ -33,7 +30,6 @@ sectionrace = true
 subtitle = Comm. Cup 3 by V.R.T.
 
 LEVEL 59
-mappack = patch.kart
 levelname = Honeybee Industry
 subtitle = Comm. Cup 4 by fickle
 typeoflevel = race
@@ -45,7 +41,6 @@ recordattack = true
 novisitneeded = true
 
 LEVEL 60
-mappack = patch.kart
 levelname = Crimson Core
 subtitle = Comm. Cup 5 by Ninferno
 music = MAP60M
@@ -58,7 +53,6 @@ numlaps = 3
 nextlevel = EVALUATION
 
 LEVEL hb
-mappack = patch.kart
 levelname = Black Bliss
 nozone = 1
 numlaps = 4
@@ -67,7 +61,7 @@ music = NEWKHB
 nextlevel = 1
 skynum = 11
 recordattack = True
-hidden = true
+hidden = false
 weather = Precip_Rain
 subtitle = MAP HELL
 

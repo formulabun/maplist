@@ -1,5 +1,4 @@
 LEVEL gt
-mappack = kr_CTAP-v5.3.pk3
 levelname = Vermilion Vessel
 palette = 7654
 subtitle = C.T.A.P - Prism Cup 3
@@ -13,7 +12,6 @@ nextlevel = GW
 mobjscale = FRACUNIT*95/100
 
 LEVEL gw
-mappack = kr_CTAP-v5.3.pk3
 levelname = Shuffle Square
 palette = 7653
 subtitle = C.T.A.P - Prism Cup 2
@@ -25,10 +23,9 @@ recordattack = true
 skyboxscale = 0.25
 nextlevel = GY
 mobjscale = FRACUNIT*90/100
-hidden = 1
+hidden = false
 
 LEVEL gy
-mappack = kr_CTAP-v5.3.pk3
 levelname = Obsidian Oasis
 palette = 7652
 subtitle = C.T.A.P - Prism Cup 1
@@ -43,7 +40,6 @@ nextlevel = GQ
 mobjscale = FRACUNIT*90/100
 
 LEVEL gq
-mappack = kr_CTAP-v5.3.pk3
 levelname = Avant Acropolis
 palette = 7657
 subtitle = C.T.A.P - Prism Cup 4
@@ -55,7 +51,6 @@ recordattack = true
 nextlevel = GN
 
 LEVEL gn
-mappack = kr_CTAP-v5.3.pk3
 levelname = 765 Stadium
 palette = 7658
 subtitle = C.T.A.P - Prism Cup: Finale
@@ -69,11 +64,10 @@ skyboxscale = 0.044
 nextlevel = NK
 
 LEVEL nk
-mappack = kr_CTAP-v5.3.pk3
 levelname = Sketchberry Spring
 palette = 6873
 subtitle = C.T.A.P - Terra Cup: 1
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 4
 music = MAPNKM
 skynum = 7642

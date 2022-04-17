@@ -3,6 +3,7 @@ LEVEL U1
 LEVEL U2
 
 LEVEL U3
+typeoflevel = singleplayer
 
 LEVEL U4
 
@@ -17,5 +18,6 @@ LEVEL U8
 LEVEL U9
 
 LEVEL UA
+typeoflevel = singleplayer
 
 LEVEL UV

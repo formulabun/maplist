@@ -1,5 +1,4 @@
 LEVEL bt
-mappack = KR_NovaPack-v2.2.pk3
 levelname = Eurobeat Highway
 subtitle = By Novaphyer
 levelselect = 6
@@ -11,12 +10,11 @@ numlaps = 3
 skynum = 1
 
 LEVEL bu
-mappack = KR_NovaPack-v2.2.pk3
 levelname = Deep Glacial
 subtitle = By Novaphyer
 levelselect = 2
 music = KMAPBU
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 novisitneeded = True
 numlaps = 4
@@ -26,7 +24,6 @@ lua.arcadetime = 75
 lua.arcadebonus = 30
 
 LEVEL bv
-mappack = KR_NovaPack-v2.2.pk3
 levelname = Salt Quarantine
 subtitle = By Novaphyer
 levelselect = 3
@@ -40,7 +37,6 @@ lua.arcadetime = 90
 lua.arcadebonus = 60
 
 LEVEL bw
-mappack = KR_NovaPack-v2.2.pk3
 levelname = Howling Bogs
 subtitle = By Novaphyer
 levelselect = 3
@@ -53,13 +49,12 @@ skynum = 1
 weather = PRECIP_RAIN
 
 LEVEL bx
-mappack = KR_NovaPack-v2.2.pk3
 levelname = National Park
 subtitle = Hope you stocked up on Repels
 nozone = true
 levelselect = 6
 music = KMAPBX
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 novisitneeded = True
 numlaps = 15
@@ -67,7 +62,6 @@ hidden = true
 skynum = 9393
 
 LEVEL by
-mappack = KR_NovaPack-v2.2.pk3
 levelname = Brimstone Ruins
 subtitle = By Novaphyer
 levelselect = 5
@@ -79,7 +73,6 @@ numlaps = 5
 skynum = 1
 
 LEVEL bz
-mappack = KR_NovaPack-v2.2.pk3
 levelname = Golden Passage
 subtitle = By Novaphyer
 zonetitle = WL4

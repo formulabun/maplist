@@ -18,8 +18,10 @@ await Promise.all(
       })
       .then(levelheaders => {
         const base = basename(filename, extname(filename));
-        let packname = base.split("_")[1];
+        const parts = base.split("_");
+        let packname = parts.slice(1, parts.length === 2 ? parts.length : parts.length-1).join("_");
         if(extname(filename) === ".kart") packname = base;
+        console.log(packname)
         return writeFile(`socdiffs/${packname}.socdiff`, levelheaders.join("\n\n"));
       })
   })

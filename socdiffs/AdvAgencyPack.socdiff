@@ -1,10 +1,11 @@
 LEVEL 70
-Hidden=True
+TypeOfLevel = SinglePlayer
 
 LEVEL 71
-numlaps=1
+TypeOfLevel = SinglePlayer
 
 LEVEL 72
+TypeOfLevel = SinglePlayer
 
 LEVEL 73
 

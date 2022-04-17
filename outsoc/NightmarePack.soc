@@ -1,5 +1,4 @@
 LEVEL n0
-mappack = krl_NightmarePack_v4.pk3
 levelname = Sleeping Egg
 zonetitle = Zone
 act = K
@@ -13,7 +12,6 @@ novisitneeded = true
 numlaps = 3
 
 LEVEL n1
-mappack = krl_NightmarePack_v4.pk3
 levelname = Lazy Summit
 zonetitle = 
 subtitle = NightmarePack
@@ -28,7 +26,6 @@ numlaps = 3
 mobjscale = FRACUNIT/8*10
 
 LEVEL n2
-mappack = krl_NightmarePack_v4.pk3
 levelname = Robotnik Winter
 zonetitle = 
 subtitle = NightmarePack
@@ -44,14 +41,13 @@ numlaps = 5
 mobjscale = FRACUNIT*9/10
 
 LEVEL n4
-mappack = krl_NightmarePack_v4.pk3
 levelname = Jade Driftway
 zonetitle = 
 subtitle = Nightmarepack
 music = JDZ
 levelselect = 1
 skynum = 88
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = true
 nextlevel = N5
 novisitneeded = true
@@ -59,7 +55,6 @@ numlaps = 3
 mobjscale = FRACUNIT*7/10
 
 LEVEL n5
-mappack = krl_NightmarePack_v4.pk3
 levelname = Hadal Trench
 zonetitle = 
 subtitle = NightmarePack
@@ -74,7 +69,6 @@ numlaps = 4
 sectionrace = true
 
 LEVEL n6
-mappack = krl_NightmarePack_v4.pk3
 levelname = MKWii Coconut
 zonetitle = Mall
 subtitle = NightmarePack
@@ -89,7 +83,6 @@ numlaps = 3
 mobjscale = FRACUNIT*8/10
 
 LEVEL n7
-mappack = krl_NightmarePack_v4.pk3
 levelname = Eerie Catacombs
 zonetitle = 
 subtitle = NightmarePack
@@ -103,7 +96,6 @@ numlaps = 5
 mobjscale = FRACUNIT*9/10
 
 LEVEL n8
-mappack = krl_NightmarePack_v4.pk3
 levelname = Tempest Ridge
 zonetitle = 
 subtitle = NightmarePack
@@ -118,7 +110,6 @@ novisitneeded = true
 numlaps = 3
 
 LEVEL n9
-mappack = krl_NightmarePack_v4.pk3
 levelname = Mission Street
 zonetitle = 
 subtitle = Nightmarepack
@@ -133,7 +124,6 @@ nextlevel = NA
 nozone = 1
 
 LEVEL na
-mappack = krl_NightmarePack_v4.pk3
 levelname = Weapons Hangar
 zonetitle = 
 subtitle = NightmarePack
@@ -147,7 +137,6 @@ novisitneeded = true
 numlaps = 2
 
 LEVEL nb
-mappack = krl_NightmarePack_v4.pk3
 levelname = Final Fall
 zonetitle = 
 subtitle = NightmarePack
@@ -162,7 +151,6 @@ numlaps = 2
 lua.ffmace = true
 
 LEVEL nc
-mappack = krl_NightmarePack_v4.pk3
 levelname = Thermal Terminal
 zonetitle = 
 subtitle = Nightmarepack

@@ -1,5 +1,4 @@
 LEVEL um
-mappack = KRL_MarshMayhem_v1.1.pk3
 levelname = Green Tropics
 zonetitle = Zone
 levelselect = 1
@@ -11,7 +10,6 @@ skynum = 01
 skyboxscalez = 32
 
 LEVEL un
-mappack = KRL_MarshMayhem_v1.1.pk3
 levelname = F-ZERO BIG
 zonetitle = Blue
 subtitle = 
@@ -28,7 +26,6 @@ lua.fzero = 1
 lua.fzerospeed = 165
 
 LEVEL uo
-mappack = KRL_MarshMayhem_v1.1.pk3
 levelname = F-ZERO MUTE
 zonetitle = CITY
 subtitle = 
@@ -44,7 +41,6 @@ lua.fzero = 1
 lua.fzerospeed = 140
 
 LEVEL up
-mappack = KRL_MarshMayhem_v1.1.pk3
 levelname = Stardust Speedway
 zonetitle = Zone
 levelselect = 1
@@ -57,7 +53,6 @@ skyboxscale = 18
 mobjscale = FRACUNIT*105/100
 
 LEVEL uq
-mappack = KRL_MarshMayhem_v1.1.pk3
 levelname = VIRTUAL
 zonetitle = STADIUM
 levelselect = 1
@@ -68,7 +63,6 @@ numlaps = 3
 skynum = 5653
 
 LEVEL ur
-mappack = KRL_MarshMayhem_v1.1.pk3
 levelname = Mushroom Hill
 zonetitle = Zone
 levelselect = 1
@@ -79,7 +73,6 @@ numlaps = 3
 skynum = 01
 
 LEVEL us
-mappack = KRL_MarshMayhem_v1.1.pk3
 levelname = Metallic Madness
 zonetitle = Zone
 subtitle = 
@@ -92,11 +85,10 @@ skynum = 01
 skyboxscale = 14
 
 LEVEL ut
-mappack = KRL_MarshMayhem_v1.1.pk3
 levelname = Bellbridge
 zonetitle = Zone
 levelselect = 1
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 novisitneeded = True
 numlaps = 2

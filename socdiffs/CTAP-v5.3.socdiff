@@ -5,7 +5,9 @@ LEVEL GQ
 LEVEL GT
 
 LEVEL GW
+hidden = false
 
 LEVEL GY
 
 LEVEL NK
+typeoflevel = SinglePlayer

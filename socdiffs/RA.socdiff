@@ -1,6 +1,7 @@
 LEVEL PC
 
 LEVEL PE
+typeoflevel = singleplayer
 
 LEVEL PF
 
@@ -9,3 +10,4 @@ LEVEL PG
 LEVEL PH
 
 LEVEL PI
+typeoflevel = singleplayer

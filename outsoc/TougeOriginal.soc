@@ -1,5 +1,4 @@
 LEVEL vj
-mappack = KR_TougeOriginal_V1.pk3
 levelname = Touge
 subtitle = The Original
 typeoflevel = race
@@ -9,4 +8,5 @@ numlaps = 3
 skynum = 98
 nextlevel = 1
 mobjscale = FRACUNIT * 2/3
+hidden = false
 

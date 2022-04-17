@@ -1,5 +1,4 @@
 LEVEL 62
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Plant Kingdom
 nozone = true
 subtitle = Blaze Cup
@@ -11,7 +10,6 @@ novisitneeded = True
 numlaps = 3
 
 LEVEL 63
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Coral Cave
 nozone = true
 subtitle = Blaze Cup
@@ -23,7 +21,6 @@ novisitneeded = True
 numlaps = 3
 
 LEVEL 64
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Machine Labyrinth
 nozone = true
 subtitle = Blaze Cup
@@ -36,7 +33,6 @@ novisitneeded = True
 numlaps = 3
 
 LEVEL 65
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Haunted Ship
 nozone = true
 subtitle = Blaze Cup
@@ -49,7 +45,6 @@ novisitneeded = true
 numlaps = 3
 
 LEVEL 66
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Blizzard Peaks
 nozone = true
 subtitle = Blaze Cup
@@ -63,7 +58,6 @@ numlaps = 3
 weather = PRECIP_SNOW
 
 LEVEL 67
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Pirate Island
 nozone = true
 subtitle = Blaze Cup
@@ -75,7 +69,6 @@ novisitneeded = true
 numlaps = 3
 
 LEVEL cm
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Crispy Canyon
 subtitle = Barkpark Cup 1
 music = CRCY
@@ -87,11 +80,10 @@ numlaps = 3
 skynum = 4
 
 LEVEL cn
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Melty Manor
 subtitle = Barkpark Cup 2
 music = MELT
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
@@ -99,7 +91,6 @@ numlaps = 3
 skynum = 87
 
 LEVEL co
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Volatile Volcano
 subtitle = Barkpark Cup 3
 music = MXHT
@@ -111,29 +102,26 @@ numlaps = 3
 skynum = 28
 
 LEVEL cp
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Aerial Badlands
 subtitle = Barkpark Cup 4
 music = CYRD
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 novisitneeded = True
 numlaps = 2
 
 LEVEL cq
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = MMBN Battlefield
 subtitle = Barkpark Battle 1
 music = DRDD
-typeoflevel = battle
+typeoflevel = singleplayer
 
 LEVEL sb
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = MMBC Street
 nozone = true
 subtitle = Battle and Chase 1
 music = SUNS
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
@@ -141,12 +129,11 @@ skynum = 222
 numlaps = 4
 
 LEVEL sc
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = MMBC Mountain
 nozone = true
 subtitle = Battle and Chase 2
 music = MTNC
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
@@ -154,24 +141,22 @@ skynum = 2002
 numlaps = 4
 
 LEVEL sd
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = MMBC Crystal
 nozone = true
 subtitle = Battle and Chase 3
 music = CAVN
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
 numlaps = 4
 
 LEVEL se
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = MMBC South Pole
 nozone = true
 subtitle = Battle and Chase 4
 music = SOPL
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
@@ -180,12 +165,11 @@ skynum = 2346
 weather = PRECIP_SNOW
 
 LEVEL sf
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = MMBC Arms Factory
 nozone = true
 subtitle = Battle and Chase 5
 music = ARFC
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
@@ -193,12 +177,11 @@ skynum = 35
 numlaps = 4
 
 LEVEL sg
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = MMBC Toy Factory
 nozone = true
 subtitle = Battle and Chase 6
 music = TYFT
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
@@ -207,33 +190,30 @@ numlaps = 4
 hidden = 0
 
 LEVEL tg
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Angel Island
 subtitle = Sonic Classic 1
 music = AGIS
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
 numlaps = 5
 
 LEVEL th
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Starlight
 subtitle = Sonic Classic 2
 music = SLZD
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
 numlaps = 5
 
 LEVEL ti
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Ice Cap
 subtitle = Sonic Classic 3
 music = ICEP
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
@@ -241,34 +221,31 @@ skyboxscalez = 1024
 numlaps = 3
 
 LEVEL tj
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Lava Reef
 subtitle = Sonic Classic 3
 music = LRFK
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
 numlaps = 3
 
 LEVEL te
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Sunshine Coastline
 subtitle = Misc 1
 music = SHCS
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True
 numlaps = 4
 
 LEVEL fn
-mappack = KRBL_Barkpark-v3.9.pk3
 levelname = Unist Hell
 nozone = true
 subtitle = Melty Bathroom Tournament
 music = NAHR
-typeoflevel = race
+typeoflevel = singleplayer
 nextlevel = 01
 recordattack = True
 novisitneeded = True

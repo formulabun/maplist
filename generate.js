@@ -3,6 +3,7 @@ import {readFile, opendir, writeFile, open} from "fs/promises";
 import {basename, extname} from "path";
 
 async function mappack(packname) {
+  if (packname.search("no") == 0) packname = packname.slice(2);
   const dir = await opendir("mapfiles")
   for await (let dirent of dir) {
     if(dirent.name.search(packname) != -1)
@@ -49,6 +50,7 @@ await Promise.all(
       if (!updatedsoc.hasOwnProperty(id)) continue;
       await outsoc.write(`LEVEL ${id}\n`);
       for(let key in updatedsoc[id]) {
+        if(key === "mappack") continue;
         if (!updatedsoc[id].hasOwnProperty(key)) continue;
         await outsoc.write(`${key} = ${updatedsoc[id][key]}\n`);
       }
