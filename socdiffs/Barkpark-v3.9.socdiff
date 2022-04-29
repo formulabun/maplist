@@ -30,13 +30,10 @@ LEVEL SB
 TYPEOFLEVEL = SinglePlayer
 
 LEVEL SC
-TYPEOFLEVEL = SinglePlayer
 
 LEVEL SD
-TYPEOFLEVEL = SinglePlayer
 
 LEVEL SE
-TYPEOFLEVEL = SinglePlayer
 
 LEVEL SF
 TYPEOFLEVEL = SinglePlayer
@@ -48,7 +45,6 @@ LEVEL TE
 TYPEOFLEVEL = SinglePlayer
 
 LEVEL TG
-TYPEOFLEVEL = SinglePlayer
 
 LEVEL TH
 TYPEOFLEVEL = SinglePlayer

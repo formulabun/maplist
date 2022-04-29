@@ -10,6 +10,7 @@ Level 4
 Level 5
 
 Level 6
+TypeOfLevel = SinglePlayer
 
 Level 7
 
@@ -75,7 +76,6 @@ Level 36
 Level 37
 
 Level 38
-TypeOfLevel = SinglePlayer
 
 Level 39
 
@@ -89,7 +89,6 @@ Level 42
 Level 43
 
 Level 44
-TypeOfLevel = SinglePlayer
 
 Level 45
 TypeOfLevel = SinglePlayer
@@ -110,7 +109,6 @@ Level 51
 TypeOfLevel = SinglePlayer
 
 Level 52
-TypeOfLevel = SinglePlayer
 
 Level 53
 TypeOfLevel = SinglePlayer
@@ -213,7 +211,9 @@ TypeOfLevel = SinglePlayer
 Hidden = true
 
 Level H2
-TypeOfLevel = SinglePlayer
+Hidden = true
+
+Level H3
 Hidden = true
 
 Level H4
@@ -248,10 +248,6 @@ TypeOfLevel = SinglePlayer
 Hidden = True
 
 Level HF
-TypeOfLevel = SinglePlayer
-Hidden = true
-
-Level H3
 TypeOfLevel = SinglePlayer
 Hidden = true
 

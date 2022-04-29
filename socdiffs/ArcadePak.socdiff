@@ -2,7 +2,6 @@ LEVEL E0
 typeoflevel = singleplayer
 
 LEVEL E1
-typeoflevel = singleplayer
 
 LEVEL E2
 
@@ -10,7 +9,6 @@ LEVEL E3
 typeoflevel = singleplayer
 
 LEVEL E4
-typeoflevel = singleplayer
 
 LEVEL E5
 typeoflevel = singleplayer

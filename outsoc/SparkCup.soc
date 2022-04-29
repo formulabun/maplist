@@ -14,7 +14,7 @@ LEVEL vb
 levelname = Sweet Wonderland
 subtitle = Spark Cup 2
 levelselect = 1
-typeoflevel = singleplayer
+typeoflevel = race
 recordattack = True
 numlaps = 5
 skynum = 424

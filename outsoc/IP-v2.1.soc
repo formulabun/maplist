@@ -12,7 +12,7 @@ music = HCZ
 LEVEL s1
 levelname = Gemstone Garden
 subtitle = Star Cup 2
-typeoflevel = singleplayer
+typeoflevel = race
 numlaps = 3
 skynum = 999
 skyboxscale = 0
