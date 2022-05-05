@@ -1,9 +1,0 @@
-LEVEL cs
-levelname = Sunset City Speedway
-subtitle = Blossom Cup
-typeoflevel = race
-recordattack = true
-numlaps = 3
-skynum = 2
-nextlevel = 1
-

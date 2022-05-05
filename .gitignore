@@ -3,6 +3,8 @@ mapfiles/*.pk3
 mapfiles/*.wad
 mapfiles/*.kart
 
+outsoc/*
+
 # Logs
 logs
 *.log
