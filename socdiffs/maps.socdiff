@@ -118,90 +118,67 @@ Level 54
 Level 55
 
 Level B0
-TypeOfLevel = SinglePlayer
 
 Level B1
-TypeOfLevel = SinglePlayer
 
 Level B2
-TypeOfLevel = SinglePlayer
 
 Level B3
-TypeOfLevel = SinglePlayer
 
 Level B4
-TypeOfLevel = SinglePlayer
 
 Level B5
-TypeOfLevel = SinglePlayer
 
 Level B6
-TypeOfLevel = SinglePlayer
 
 Level B7
-TypeOfLevel = SinglePlayer
 
 Level B8
-TypeOfLevel = SinglePlayer
 
 Level B9
-TypeOfLevel = SinglePlayer
 
 Level BA
-TypeOfLevel = SinglePlayer
+hidden = true
 
 Level BB
-TypeOfLevel = SinglePlayer
+hidden = true
 
 Level BC
-TypeOfLevel = SinglePlayer
+hidden = true
 
 Level BD
-TypeOfLevel = SinglePlayer
 
 Level BE
-TypeOfLevel = SinglePlayer
 
 Level BF
-TypeOfLevel = SinglePlayer
 
 Level BG
 
 Level BH
-TypeOfLevel = SinglePlayer
 
 Level BI
-TypeOfLevel = SinglePlayer
+hidden = true
 
 Level BJ
-TypeOfLevel = SinglePlayer
 
 Level BK
-TypeOfLevel = SinglePlayer
+hidden = true
 
 Level BL
-TypeOfLevel = SinglePlayer
 
 Level BM
-TypeOfLevel = SinglePlayer
 
 Level BN
-TypeOfLevel = SinglePlayer
 
 Level BO
-TypeOfLevel = SinglePlayer
 
 Level BP
-TypeOfLevel = SinglePlayer
 
 Level BQ
-TypeOfLevel = SinglePlayer
 
 Level BR
-TypeOfLevel = SinglePlayer
 
 Level BS
-TypeOfLevel = SinglePlayer
 
 Level H0
 Hidden = false
