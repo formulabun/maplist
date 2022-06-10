@@ -1,16 +1,19 @@
 LEVEL A5
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL AO
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL SU
+typeoflevel=singleplayer
 
 LEVEL SV
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL SX
 
 LEVEL SY
+typeoflevel=singleplayer
 
 LEVEL SZ
+typeoflevel=singleplayer

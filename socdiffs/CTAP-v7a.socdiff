@@ -1,6 +1,7 @@
 LEVEL GN
 
 LEVEL GQ
+typeoflevel=singleplayer
 
 LEVEL GT
 
@@ -9,6 +10,7 @@ LEVEL GW
 LEVEL GY
 
 LEVEL GZ
+typeoflevel=singleplayer
 
 LEVEL NK
-hidden = true
+typeoflevel=singleplayer

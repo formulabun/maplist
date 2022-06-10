@@ -1,22 +1,24 @@
 LEVEL R0
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL R1
+typeoflevel=singleplayer
 
 LEVEL R2
 
 LEVEL R3
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL R4
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL R5
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL R6
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL R7
 
 LEVEL R8
+typeoflevel=singleplayer

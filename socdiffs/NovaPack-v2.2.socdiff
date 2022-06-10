@@ -1,15 +1,19 @@
 LEVEL BT
+typeoflevel=singleplayer
 
 LEVEL BU
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL BV
 
 LEVEL BW
+typeoflevel=singleplayer
 
 LEVEL BX
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL BY
+typeoflevel=singleplayer
 
 LEVEL BZ
+typeoflevel=singleplayer

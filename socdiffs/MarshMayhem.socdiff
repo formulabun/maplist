@@ -1,16 +1,22 @@
 LEVEL UM
+typeoflevel=singleplayer
 
 LEVEL UN
+typeoflevel=singleplayer
 
 LEVEL UO
+typeoflevel=singleplayer
 
 LEVEL UP
 
 LEVEL UQ
+typeoflevel=singleplayer
 
 LEVEL UR
+typeoflevel=singleplayer
 
 LEVEL US
+typeoflevel=singleplayer
 
 LEVEL UT
-typeoflevel = singleplayer
+typeoflevel=singleplayer

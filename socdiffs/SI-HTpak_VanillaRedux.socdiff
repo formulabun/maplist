@@ -1,13 +1,14 @@
 LEVEL R9
 
 LEVEL RA
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL RB
+typeoflevel=singleplayer
 
 LEVEL RC
 
 LEVEL RD
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL RE

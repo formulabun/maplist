@@ -1,24 +1,31 @@
 LEVEL N0
 
 LEVEL N1
+typeoflevel=singleplayer
 
 LEVEL N2
 
 LEVEL N4
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL N5
+typeoflevel=singleplayer
 
 LEVEL N6
+typeoflevel=singleplayer
 
 LEVEL N7
+typeoflevel=singleplayer
 
 LEVEL N8
 
 LEVEL N9
+typeoflevel=singleplayer
 
 LEVEL NA
+typeoflevel=singleplayer
 
 LEVEL NB
+typeoflevel=singleplayer
 
 LEVEL NC

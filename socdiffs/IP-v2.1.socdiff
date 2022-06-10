@@ -1,14 +1,14 @@
 LEVEL BT
+typeoflevel=singleplayer
 
 LEVEL HI
-hidden = false
+typeoflevel=singleplayer
 
 LEVEL S0
 
 LEVEL S1
-typeoflevel = singleplayer
 
 LEVEL S2
 
 LEVEL S3
-typeoflevel = singleplayer
+typeoflevel=singleplayer

@@ -1,39 +1,44 @@
 LEVEL K0
+typeoflevel=singleplayer
 
 LEVEL K1
+typeoflevel=singleplayer
 
 LEVEL K2
 
 LEVEL K3
+typeoflevel=singleplayer
 
 LEVEL K4
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL K5
 
 LEVEL K6
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL K7
+typeoflevel=singleplayer
 
 LEVEL K8
 
 LEVEL K9
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL KA
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL KB
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL KC
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL KD
+typeoflevel=singleplayer
 
 LEVEL KY
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL KZ
-typeoflevel = singleplayer
+typeoflevel=singleplayer

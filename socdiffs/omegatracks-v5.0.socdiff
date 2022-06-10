@@ -1,18 +1,20 @@
 LEVEL KM
+typeoflevel=singleplayer
 
 LEVEL KN
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL KO
 
 LEVEL KQ
 
 LEVEL KR
+typeoflevel=singleplayer
 
 LEVEL KS
 
 LEVEL KU
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL ZZ
-typeoflevel = singleplayer
+typeoflevel=singleplayer

@@ -1,33 +1,35 @@
 LEVEL CR
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL DA
+typeoflevel=singleplayer
 
 LEVEL DB
+typeoflevel=singleplayer
 
 LEVEL DC
+typeoflevel=singleplayer
 
 LEVEL DE
 
 LEVEL DZ
+typeoflevel=singleplayer
 
 LEVEL FK
-typeoflevel = singleplayer
 
 LEVEL LX
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL LY
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL NM
-hidden = false
 
 LEVEL OY
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL SM
-typeoflevel = singleplayer
+typeoflevel=singleplayer
 
 LEVEL XG
-typeoflevel = singleplayer
+typeoflevel=singleplayer

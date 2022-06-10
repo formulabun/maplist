@@ -3,11 +3,12 @@ LEVEL 56
 LEVEL 57
 
 LEVEL 58
+typeoflevel=singleplayer
 
 LEVEL 59
 
 LEVEL 60
+typeoflevel=singleplayer
 
 LEVEL HB
-hidden = false
-
+typeoflevel=singleplayer

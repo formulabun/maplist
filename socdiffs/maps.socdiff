@@ -1,240 +1,280 @@
-Level 1
+LEVEL 01
 
-Level 2
-TypeOfLevel = SinglePlayer
+LEVEL 02
+typeoflevel=singleplayer
 
-Level 3
+LEVEL 03
 
-Level 4
+LEVEL 04
+typeoflevel=singleplayer
 
-Level 5
+LEVEL 05
 
-Level 6
-TypeOfLevel = SinglePlayer
+LEVEL 06
+typeoflevel=singleplayer
 
-Level 7
+LEVEL 07
 
-Level 8
+LEVEL 08
 
-Level 9
+LEVEL 09
 
-Level 10
+LEVEL 10
+typeoflevel=singleplayer
 
-Level 11
+LEVEL 11
 
-Level 12
-TypeOfLevel = SinglePlayer
+LEVEL 12
+typeoflevel=singleplayer
 
-Level 13
+LEVEL 13
 
-Level 14
+LEVEL 14
+typeoflevel=singleplayer
 
-Level 15
+LEVEL 15
+typeoflevel=singleplayer
 
-Level 16
+LEVEL 16
 
-Level 17
+LEVEL 17
+typeoflevel=singleplayer
 
-Level 18
+LEVEL 18
 
-Level 19
+LEVEL 19
 
-Level 20
+LEVEL 20
 
-Level 21
+LEVEL 21
+typeoflevel=singleplayer
 
-Level 22
+LEVEL 22
+typeoflevel=singleplayer
 
-Level 23
+LEVEL 23
 
-Level 24
+LEVEL 24
 
-Level 25
+LEVEL 25
 
-Level 26
+LEVEL 26
 
-Level 27
+LEVEL 27
 
-Level 28
+LEVEL 28
 
-Level 29
+LEVEL 29
+typeoflevel=singleplayer
 
-Level 30
+LEVEL 30
 
-Level 31
+LEVEL 31
 
-Level 32
+LEVEL 32
 
-Level 33
+LEVEL 33
 
-Level 34
+LEVEL 34
+typeoflevel=singleplayer
 
-Level 35
+LEVEL 35
+typeoflevel=singleplayer
 
-Level 36
+LEVEL 36
+typeoflevel=singleplayer
 
-Level 37
+LEVEL 37
 
-Level 38
+LEVEL 38
+typeoflevel=singleplayer
 
-Level 39
+LEVEL 39
+typeoflevel=singleplayer
 
-Level 40
+LEVEL 40
 
-Level 41
-TypeOfLevel = SinglePlayer
+LEVEL 41
+typeoflevel=singleplayer
 
-Level 42
+LEVEL 42
 
-Level 43
+LEVEL 43
+typeoflevel=singleplayer
 
-Level 44
+LEVEL 44
+typeoflevel=singleplayer
 
-Level 45
-TypeOfLevel = SinglePlayer
+LEVEL 45
+typeoflevel=singleplayer
 
-Level 46
-TypeOfLevel = SinglePlayer
+LEVEL 46
+typeoflevel=singleplayer
 
-Level 47
+LEVEL 47
+typeoflevel=singleplayer
 
-Level 48
+LEVEL 48
+typeoflevel=singleplayer
 
-Level 49
-TypeOfLevel = SinglePlayer
+LEVEL 49
+typeoflevel=singleplayer
 
-Level 50
+LEVEL 50
+typeoflevel=singleplayer
 
-Level 51
-TypeOfLevel = SinglePlayer
+LEVEL 51
+typeoflevel=singleplayer
 
-Level 52
+LEVEL 52
+typeoflevel=singleplayer
 
-Level 53
-TypeOfLevel = SinglePlayer
+LEVEL 53
+typeoflevel=singleplayer
 
-Level 54
+LEVEL 54
+typeoflevel=singleplayer
 
-Level 55
+LEVEL 55
+typeoflevel=singleplayer
 
-Level B0
+LEVEL B0
+typeoflevel=singleplayer
 
-Level B1
+LEVEL B1
+typeoflevel=singleplayer
 
-Level B2
+LEVEL B2
+typeoflevel=singleplayer
 
-Level B3
+LEVEL B3
+typeoflevel=singleplayer
 
-Level B4
+LEVEL B4
+typeoflevel=singleplayer
 
-Level B5
+LEVEL B5
+typeoflevel=singleplayer
 
-Level B6
+LEVEL B6
+typeoflevel=singleplayer
 
-Level B7
+LEVEL B7
+typeoflevel=singleplayer
 
-Level B8
+LEVEL B8
+typeoflevel=singleplayer
 
-Level B9
+LEVEL B9
+typeoflevel=singleplayer
 
-Level BA
-hidden = true
+LEVEL BA
+typeoflevel=singleplayer
 
-Level BB
-hidden = true
+LEVEL BB
+typeoflevel=singleplayer
 
-Level BC
-hidden = true
+LEVEL BC
+typeoflevel=singleplayer
 
-Level BD
+LEVEL BD
+typeoflevel=singleplayer
 
-Level BE
+LEVEL BE
+typeoflevel=singleplayer
 
-Level BF
+LEVEL BF
+typeoflevel=singleplayer
 
-Level BG
+LEVEL BG
+typeoflevel=singleplayer
 
-Level BH
+LEVEL BH
+typeoflevel=singleplayer
 
-Level BI
-hidden = true
+LEVEL BI
+typeoflevel=singleplayer
 
-Level BJ
+LEVEL BJ
+typeoflevel=singleplayer
 
-Level BK
-hidden = true
+LEVEL BK
+typeoflevel=singleplayer
 
-Level BL
+LEVEL BL
+typeoflevel=singleplayer
 
-Level BM
+LEVEL BM
+typeoflevel=singleplayer
 
-Level BN
+LEVEL BN
+typeoflevel=singleplayer
 
-Level BO
+LEVEL BO
+typeoflevel=singleplayer
 
-Level BP
+LEVEL BP
+typeoflevel=singleplayer
 
-Level BQ
+LEVEL BQ
+typeoflevel=singleplayer
 
-Level BR
+LEVEL BR
+typeoflevel=singleplayer
 
-Level BS
+LEVEL BS
+typeoflevel=singleplayer
 
-Level H0
-Hidden = false
+LEVEL H0
+typeoflevel=singleplayer
 
-Level H1
-TypeOfLevel = SinglePlayer
-Hidden = true
+LEVEL H1
+typeoflevel=singleplayer
 
-Level H2
-Hidden = true
+LEVEL H2
+typeoflevel=singleplayer
 
-Level H3
-Hidden = true
+LEVEL H3
+typeoflevel=singleplayer
 
-Level H4
-Hidden = false
+LEVEL H4
+typeoflevel=singleplayer
 
-Level H5
-Hidden = false
+LEVEL H5
+typeoflevel=singleplayer
 
-Level H6
-Hidden = false
+LEVEL H6
+typeoflevel=singleplayer
 
-Level H7
-TypeOfLevel = SinglePlayer
-Hidden = true
+LEVEL H7
+typeoflevel=singleplayer
 
-Level H9
-TypeOfLevel = SinglePlayer
-Hidden = true
+LEVEL H8
+typeoflevel=singleplayer
 
-Level HA
-TypeOfLevel = SinglePlayer
-Hidden = true
+LEVEL H9
+typeoflevel=singleplayer
 
-Level HC
-Hidden = false
+LEVEL HA
+typeoflevel=singleplayer
 
-Level HD
-Hidden = false
+LEVEL HB
+typeoflevel=singleplayer
 
-Level HE
-TypeOfLevel = SinglePlayer
-Hidden = True
+LEVEL HC
+typeoflevel=singleplayer
 
-Level HF
-TypeOfLevel = SinglePlayer
-Hidden = true
+LEVEL HD
+typeoflevel=singleplayer
 
-Level H8
-TypeOfLevel = SinglePlayer
-Hidden = true
+LEVEL HE
+typeoflevel=singleplayer
 
-Level HG
-TypeOfLevel = SinglePlayer
-Hidden = true
+LEVEL HF
+typeoflevel=singleplayer
 
-Level HH
-Hidden = false
+LEVEL HG
+typeoflevel=singleplayer
+
+LEVEL HH
+typeoflevel=singleplayer

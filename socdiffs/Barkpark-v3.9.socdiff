@@ -1,56 +1,64 @@
 LEVEL 62
 
 LEVEL 63
+typeoflevel=singleplayer
 
 LEVEL 64
+typeoflevel=singleplayer
 
 LEVEL 65
+typeoflevel=singleplayer
 
 LEVEL 66
+typeoflevel=singleplayer
 
 LEVEL 67
+typeoflevel=singleplayer
 
 LEVEL CM
 
 LEVEL CN
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
 
 LEVEL CO
+typeoflevel=singleplayer
 
 LEVEL CP
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
 
 LEVEL CQ
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
 
 LEVEL FN
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
 
 LEVEL SB
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
 
 LEVEL SC
+typeoflevel=singleplayer
 
 LEVEL SD
 
 LEVEL SE
 
 LEVEL SF
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
 
 LEVEL SG
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
 
 LEVEL TE
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
 
 LEVEL TG
+typeoflevel=singleplayer
 
 LEVEL TH
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
 
 LEVEL TI
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
 
 LEVEL TJ
-TYPEOFLEVEL = SinglePlayer
+typeoflevel=singleplayer
