@@ -642,7 +642,7 @@ novisitneeded = true
 LEVEL b0
 levelname = Municipal Meadow
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPB0
 skynum = 91
 recordattack = 0
@@ -652,7 +652,7 @@ skyboxscale = 64
 LEVEL b1
 levelname = Tricircle Marina
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 60
 skyboxscale = 128
 music = KMAPB1
@@ -660,21 +660,21 @@ music = KMAPB1
 LEVEL b2
 levelname = Tinkerer's Arena
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 1
 music = KMAPB2
 
 LEVEL b3
 levelname = Clucky Farms
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 2002
 music = KMAPB3
 
 LEVEL b4
 levelname = Techno Hill
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPB4
 skynum = 4
 mobjscale = 7*FRACUNIT/8
@@ -683,63 +683,66 @@ LEVEL b5
 levelname = Marble
 skynum = 88
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPB5
 
 LEVEL b6
 levelname = Colosseum
 subtitle = Battle Mode
 nozone = true
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPB6
 
 LEVEL b7
 levelname = Dried Battledune
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 4733
 music = KMAPB7
 
 LEVEL b8
 levelname = Eerie Grove
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPB8
 skynum = 87
 
 LEVEL b9
 levelname = Rusty Rig
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 118
 music = KMAPB9
 
 LEVEL ba
 levelname = Fantastic Tabernacle
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPBA
 skynum = 1012
+hidden = true
 
 LEVEL bb
 levelname = Bad Taste
 zonetitle = Aquarium
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPBB
 skynum = 821
+hidden = true
 
 LEVEL bc
 levelname = Spotlight Syndicate
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPBC
 skynum = 8
+hidden = true
 
 LEVEL bd
 levelname = City Skyline
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 52
 skyboxscalez = 64
 music = KMAPBD
@@ -748,14 +751,14 @@ LEVEL be
 levelname = Fakery Way
 subtitle = Battle Mode
 nozone = true
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPBE
 
 LEVEL bf
 levelname = Bumper Carts
 nozone = true
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPBF
 
 LEVEL bg
@@ -771,7 +774,7 @@ LEVEL bh
 levelname = Power Plant
 nozone = true
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPBH
 skynum = 6
 skyboxscale = 2
@@ -780,14 +783,15 @@ LEVEL bi
 levelname = Tails' Lab
 nozone = true
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPBI
+hidden = true
 
 LEVEL bj
 levelname = Armored
 zonetitle = Armadillo
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPBJ
 skynum = 91
 
@@ -795,14 +799,15 @@ LEVEL bk
 levelname = Trigger Happy
 zonetitle = Havoc
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 music = KMAPBK
+hidden = true
 
 LEVEL bl
 levelname = Mementos
 nozone = true
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 1
 music = KMAPBL
 
@@ -811,7 +816,7 @@ levelname = CD Special
 zonetitle = Stage
 act = 1
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 nextlevel = B0
 skynum = 93
 music = KMAPBM
@@ -822,7 +827,7 @@ levelname = SMK Battle
 zonetitle = Course
 act = 1
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 42
 skyboxscalez = 64
 music = KMAPBN
@@ -832,7 +837,7 @@ levelname = SMK Battle
 zonetitle = Course
 act = 2
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 45
 skyboxscalez = 64
 music = KMAPBN
@@ -842,7 +847,7 @@ levelname = SMK Battle
 zonetitle = Course
 act = 3
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 45
 skyboxscalez = 64
 music = KMAPBP
@@ -852,7 +857,7 @@ levelname = SMK Battle
 zonetitle = Course
 act = 4
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 41
 skyboxscalez = 64
 music = KMAPBN
@@ -861,7 +866,7 @@ LEVEL br
 levelname = MK64 Block
 zonetitle = Fort
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 88
 skyboxscale = 128
 music = KMAPBR
@@ -870,7 +875,7 @@ LEVEL bs
 levelname = MK64 Double
 zonetitle = Deck
 subtitle = Battle Mode
-typeoflevel = singleplayer
+typeoflevel = battle
 skynum = 88
 music = KMAPBR
 nextlevel = B0
