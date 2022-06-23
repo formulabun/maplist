@@ -14,7 +14,7 @@ LEVEL vb
 levelname = Sweet Wonderland
 subtitle = Spark Cup 2
 levelselect = 1
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 numlaps = 5
 skynum = 424
@@ -94,7 +94,7 @@ lua.arcadebonus = 12
 LEVEL vj
 levelname = Touge
 subtitle = The Legendary
-typeoflevel = race
+typeoflevel = singleplayer
 hidden = true
 recordattack = True
 sectionrace = true

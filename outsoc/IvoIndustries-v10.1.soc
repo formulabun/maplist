@@ -49,7 +49,7 @@ skyboxscalez = 16
 LEVEL u5
 levelname = Splashdown
 subtitle = Dimps Bot Paradise
-typeoflevel = race
+typeoflevel = singleplayer
 sectionrace = True
 recordattack = True
 numlaps = 3

@@ -13,7 +13,7 @@ music = MAPF5
 LEVEL f6
 levelname = Marble Drome
 subtitle = Milk Carton Cup
-typeoflevel = race
+typeoflevel = singleplayer
 skynum = 967
 numlaps = 3
 recordattack = true

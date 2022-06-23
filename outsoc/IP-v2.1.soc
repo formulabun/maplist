@@ -39,7 +39,7 @@ weather = PRECIP_SNOW
 LEVEL bt
 levelname = Metropolis
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 1
 skyboxscalex = 0
 skyboxscaley = 0
@@ -49,12 +49,12 @@ music = MPZ
 LEVEL hi
 levelname = Daytona Hell
 subtitle = ~Eternal Suffering~
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 20
 music = DAY
 recordattack = true
 novisitneeded = true
-hidden = false
+hidden = true
 nextlevel = EVALUATION
 

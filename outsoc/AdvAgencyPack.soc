@@ -37,7 +37,7 @@ lua.arcadebonus = 55
 LEVEL 73
 levelname = Pizza Panic
 subtitle = Adventurer's Cup 4
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 2
 skynum = 202
 music = MAP73M

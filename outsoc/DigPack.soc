@@ -2,7 +2,7 @@ LEVEL da
 levelname = Plains of Passage
 nozone = True
 subtitle = Shovel Cup 1
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 numlaps = 3
 skynum = 590
@@ -14,7 +14,7 @@ LEVEL db
 levelname = Pridemoor Keep
 nozone = True
 subtitle = Shovel Cup 2
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 numlaps = 2
 skynum = 588
@@ -25,7 +25,7 @@ LEVEL dc
 levelname = Lich Yard
 nozone = True
 subtitle = Shovel Cup 3
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 numlaps = 3
 skynum = 589
@@ -72,7 +72,7 @@ music = MAPLYM
 LEVEL dz
 levelname = Burning Bone
 subtitle = Diggle Cup 5
-typeoflevel = race
+typeoflevel = singleplayer
 recordattack = True
 numlaps = 5
 skynum = 28
@@ -90,7 +90,6 @@ skynum = 3117
 music = MAPNM1
 novisitneeded = true
 nextlevel = 1
-hidden = false
 
 LEVEL oy
 levelname = Lava Reef
@@ -118,7 +117,7 @@ music = MAPSMM
 LEVEL fk
 levelname = Temple Tussle
 subtitle = Dig Pack Battle
-typeoflevel = singleplayer
+typeoflevel = battle
 recordattack = False
 nextlevel = 1
 skynum = 2735

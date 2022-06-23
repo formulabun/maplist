@@ -1,7 +1,7 @@
 LEVEL km
 levelname = Disk Operating System
 subtitle = OmegaTracks V5
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 4
 skynum = 1
 music = DOSZON
@@ -37,7 +37,7 @@ lua.speedpadstoring = true
 LEVEL kr
 levelname = Azure Lake
 subtitle = OmegaTracks V5
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 7
 skynum = 7486
 music = AZLAKE

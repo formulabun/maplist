@@ -2,7 +2,7 @@ LEVEL 10
 levelname = Grand Metropolis
 nozone = true
 subtitle = Sneaker Cup FINAL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 2
 skynum = 70
 music = KMAP10
@@ -46,7 +46,7 @@ LEVEL 14
 levelname = Twinkle Cart
 nozone = true
 subtitle = Water Cup 4
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 1017
 music = KMAP14
@@ -58,7 +58,7 @@ LEVEL 15
 levelname = Pleasure Castle
 nozone = true
 subtitle = Water Cup FINAL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 1017
 music = KMAP15
@@ -79,7 +79,7 @@ novisitneeded = true
 LEVEL 17
 levelname = Sub-Zero Peak
 subtitle = Lightning Cup 2
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 55
 weather = PRECIP_SNOW
@@ -123,7 +123,7 @@ nextlevel = EVALUATION
 LEVEL 21
 levelname = Canyon Rush
 subtitle = Fire Cup 1
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 4
 skynum = 13
 music = KMAP21
@@ -134,7 +134,7 @@ sectionrace = true
 LEVEL 22
 levelname = Casino Resort
 subtitle = Fire Cup 2
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 2
 skynum = 8
 music = KMAP22
@@ -213,7 +213,7 @@ LEVEL 29
 levelname = Red Barrage
 zonetitle = Area
 subtitle = Invincible Cup 4
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 821
 music = KMAP29
@@ -267,7 +267,7 @@ LEVEL 34
 levelname = Cloud Cradle
 act = K
 subtitle = Emerald Cup 4
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 73
 music = KMAP34
@@ -277,7 +277,7 @@ novisitneeded = true
 LEVEL 35
 levelname = Volcanic Valley
 subtitle = Emerald Cup FINAL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 28
 music = KMAP35
@@ -289,7 +289,7 @@ nextlevel = EVALUATION
 LEVEL 36
 levelname = Kodachrome Void
 subtitle = Egg Cup 1
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 music = KMAP36
 recordattack = true
@@ -311,7 +311,7 @@ LEVEL 38
 levelname = Egg Quarters
 nozone = true
 subtitle = Egg Cup 3
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 3262
 music = KMAP38
@@ -322,7 +322,7 @@ unlockable = 1
 LEVEL 39
 levelname = Virtual Highway
 subtitle = Egg Cup 4
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 12
 music = KMAP39
@@ -373,7 +373,7 @@ levelname = CK Chao
 zonetitle = Circuit
 act = 2
 subtitle = Chao Cup 3
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 2
 skynum = 3388
 music = KMAP43
@@ -386,7 +386,7 @@ levelname = CK Cloud
 zonetitle = Tops
 act = 2
 subtitle = Chao Cup 4
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 4
 palette = 177
 skynum = 2002
@@ -425,7 +425,7 @@ levelname = SM Special
 zonetitle = Stage
 act = 3
 subtitle = Swap Cup 2
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 5
 mobjscale = 7*FRACUNIT/8
 skynum = 700
@@ -438,7 +438,7 @@ LEVEL 48
 levelname = MKSC Sky
 zonetitle = Garden
 subtitle = Swap Cup 3
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 40
 music = KMAP48
@@ -460,7 +460,7 @@ LEVEL 50
 levelname = MKSC Rainbow
 zonetitle = Road
 subtitle = Swap Cup FINAL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 61
 skyboxscale = 128
@@ -488,7 +488,7 @@ levelname = SMK Mario
 zonetitle = Circuit
 act = 2
 subtitle = SMK Cup 2
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 5
 skynum = 41
 skyboxscalez = 0
@@ -516,7 +516,7 @@ levelname = SMK Bowser
 zonetitle = Castle
 act = 3
 subtitle = SMK Cup 4
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 5
 skynum = 6343
 skyboxscalez = 0
@@ -530,7 +530,7 @@ levelname = SMK Vanilla
 zonetitle = Lake
 act = 2
 subtitle = SMK Cup FINAL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 5
 skynum = 45
 skyboxscalez = 0
@@ -576,7 +576,7 @@ novisitneeded = true
 LEVEL 04
 levelname = Darkvile Garden
 subtitle = Ring Cup 4
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 11
 weather = PRECIP_RAIN
@@ -642,7 +642,7 @@ novisitneeded = true
 LEVEL b0
 levelname = Municipal Meadow
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPB0
 skynum = 91
 recordattack = 0
@@ -652,7 +652,7 @@ skyboxscale = 64
 LEVEL b1
 levelname = Tricircle Marina
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 60
 skyboxscale = 128
 music = KMAPB1
@@ -660,21 +660,21 @@ music = KMAPB1
 LEVEL b2
 levelname = Tinkerer's Arena
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 1
 music = KMAPB2
 
 LEVEL b3
 levelname = Clucky Farms
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 2002
 music = KMAPB3
 
 LEVEL b4
 levelname = Techno Hill
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPB4
 skynum = 4
 mobjscale = 7*FRACUNIT/8
@@ -683,66 +683,63 @@ LEVEL b5
 levelname = Marble
 skynum = 88
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPB5
 
 LEVEL b6
 levelname = Colosseum
 subtitle = Battle Mode
 nozone = true
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPB6
 
 LEVEL b7
 levelname = Dried Battledune
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 4733
 music = KMAPB7
 
 LEVEL b8
 levelname = Eerie Grove
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPB8
 skynum = 87
 
 LEVEL b9
 levelname = Rusty Rig
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 118
 music = KMAPB9
 
 LEVEL ba
 levelname = Fantastic Tabernacle
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPBA
 skynum = 1012
-hidden = true
 
 LEVEL bb
 levelname = Bad Taste
 zonetitle = Aquarium
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPBB
 skynum = 821
-hidden = true
 
 LEVEL bc
 levelname = Spotlight Syndicate
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPBC
 skynum = 8
-hidden = true
 
 LEVEL bd
 levelname = City Skyline
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 52
 skyboxscalez = 64
 music = KMAPBD
@@ -751,21 +748,21 @@ LEVEL be
 levelname = Fakery Way
 subtitle = Battle Mode
 nozone = true
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPBE
 
 LEVEL bf
 levelname = Bumper Carts
 nozone = true
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPBF
 
 LEVEL bg
 levelname = Death Egg's Eye
 subtitle = Battle Mode
 nozone = true
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 22
 music = KMAPBG
 skyboxscale = 0
@@ -774,7 +771,7 @@ LEVEL bh
 levelname = Power Plant
 nozone = true
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPBH
 skynum = 6
 skyboxscale = 2
@@ -783,15 +780,14 @@ LEVEL bi
 levelname = Tails' Lab
 nozone = true
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPBI
-hidden = true
 
 LEVEL bj
 levelname = Armored
 zonetitle = Armadillo
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPBJ
 skynum = 91
 
@@ -799,15 +795,14 @@ LEVEL bk
 levelname = Trigger Happy
 zonetitle = Havoc
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 music = KMAPBK
-hidden = true
 
 LEVEL bl
 levelname = Mementos
 nozone = true
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 1
 music = KMAPBL
 
@@ -816,7 +811,7 @@ levelname = CD Special
 zonetitle = Stage
 act = 1
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 nextlevel = B0
 skynum = 93
 music = KMAPBM
@@ -827,7 +822,7 @@ levelname = SMK Battle
 zonetitle = Course
 act = 1
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 42
 skyboxscalez = 64
 music = KMAPBN
@@ -837,7 +832,7 @@ levelname = SMK Battle
 zonetitle = Course
 act = 2
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 45
 skyboxscalez = 64
 music = KMAPBN
@@ -847,7 +842,7 @@ levelname = SMK Battle
 zonetitle = Course
 act = 3
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 45
 skyboxscalez = 64
 music = KMAPBP
@@ -857,7 +852,7 @@ levelname = SMK Battle
 zonetitle = Course
 act = 4
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 41
 skyboxscalez = 64
 music = KMAPBN
@@ -866,7 +861,7 @@ LEVEL br
 levelname = MK64 Block
 zonetitle = Fort
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 88
 skyboxscale = 128
 music = KMAPBR
@@ -875,7 +870,7 @@ LEVEL bs
 levelname = MK64 Double
 zonetitle = Deck
 subtitle = Battle Mode
-typeoflevel = battle
+typeoflevel = singleplayer
 skynum = 88
 music = KMAPBR
 nextlevel = B0
@@ -883,11 +878,11 @@ nextlevel = B0
 LEVEL h0
 levelname = Crystal Abyss
 subtitle = MAP HELL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 2
 music = KMAPH0
 skynum = 87
-hidden = false
+hidden = true
 nextlevel = 1
 
 LEVEL h1
@@ -907,7 +902,7 @@ LEVEL h2
 levelname = Arid Sands
 subtitle = MAP HELL
 nozone = true
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 music = KMAPH2
 skynum = 72
@@ -919,11 +914,11 @@ nextlevel = 1
 LEVEL h4
 levelname = Chemical Facility
 subtitle = MAP HELL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 2
 music = KMAPH4
 skynum = 1017
-hidden = false
+hidden = true
 recordattack = true
 novisitneeded = true
 nextlevel = 1
@@ -931,11 +926,11 @@ nextlevel = 1
 LEVEL h5
 levelname = 3 Color Drive
 subtitle = MAP HELL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 music = KMAPH5
 skynum = 78
-hidden = false
+hidden = true
 recordattack = true
 novisitneeded = true
 nextlevel = 1
@@ -945,11 +940,11 @@ levelname = CK Cloud
 zonetitle = Tops
 act = 1
 subtitle = MAP HELL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 music = KMAPH6
 skynum = 1
-hidden = false
+hidden = true
 recordattack = true
 novisitneeded = true
 nextlevel = 1
@@ -998,7 +993,7 @@ LEVEL hb
 levelname = CNR Townsville
 zonetitle = Raceway
 subtitle = MAP HELL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 music = KMAPHB
 skynum = 1019
@@ -1011,12 +1006,12 @@ LEVEL hc
 levelname = FZ Silence
 nozone = true
 subtitle = MAP HELL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 mobjscale = FRACUNIT/2
 skynum = 2432
 music = KMAPHC
-hidden = false
+hidden = true
 recordattack = true
 novisitneeded = true
 nextlevel = 1
@@ -1025,12 +1020,12 @@ LEVEL hd
 levelname = SMK Rainbow
 zonetitle = Road
 subtitle = MAP HELL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 5
 skynum = 46
 skyboxscalez = 0
 music = KMAPHD
-hidden = false
+hidden = true
 recordattack = true
 novisitneeded = true
 nextlevel = 1
@@ -1059,7 +1054,7 @@ LEVEL h3
 levelname = Volcanic Valley
 zonetitle = Classic
 subtitle = MAP HELL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 117
 music = KMAP35
@@ -1095,7 +1090,7 @@ LEVEL hh
 levelname = Blue Mountain
 zonetitle = Classic
 subtitle = MAP HELL
-typeoflevel = race
+typeoflevel = singleplayer
 numlaps = 3
 skynum = 17
 skyboxscale = 0
@@ -1103,6 +1098,6 @@ weather = PRECIP_SNOW
 music = KMAPHH
 recordattack = true
 novisitneeded = true
-hidden = false
+hidden = true
 nextlevel = 1
 
